@@ -1,1 +1,314 @@
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, key='29hUT0BKdmUEgD6KLppEH9qDItY0eQXM', logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:3655623
+INFO:root:3248920
+INFO:root:2659769
+INFO:root:9640133
+INFO:root:4055710
+INFO:root:1050975
+INFO:root:1809715
+INFO:root:1916266
+INFO:root:1117299
+INFO:root:2559537
+INFO:root:2296326
+INFO:root:7407032
+INFO:root:3157406
+INFO:root:3994098
+INFO:root:3561920
+INFO:root:2140063
+INFO:root:3610134
+INFO:root:3494778
+INFO:root:2033178
+INFO:root:1562298
+INFO:root:1093743
+INFO:root:1177160
+INFO:root:1860323
+INFO:root:1494102
+INFO:root:2498847
+INFO:root:1875013
+INFO:root:1068505
+INFO:root:3993793
+INFO:root:2310449
+INFO:root:3308331
+INFO:root:4265987
+INFO:root:3562883
+INFO:root:9578631
+INFO:root:2377207
+INFO:root:7011503
+INFO:root:8278680
+INFO:root:4075719
+INFO:root:2737106
+INFO:root:1159908
+INFO:root:4053388
+INFO:root:7689953
+INFO:root:2884672
+INFO:root:2601519
+INFO:root:2529026
+INFO:root:6500128
+INFO:root:1628610
+INFO:root:3691107
+INFO:root:4221029
+INFO:root:3856956
+INFO:root:1643780
+INFO:root:3910672
+INFO:root:3194757
+INFO:root:2141250
+INFO:root:9002207
+INFO:root:3446674
+INFO:root:2031422
+INFO:root:4073815
+INFO:root:1341865
+INFO:root:7253183
+INFO:root:5993008
+INFO:root:4225073
+INFO:root:1094669
+INFO:root:2950754
+INFO:root:2207418
+INFO:root:2919220
+INFO:root:3827352
+INFO:root:3205761
+INFO:root:Converting subject: 1050975
+INFO:root:Converting subject: 1068505
+INFO:root:Converting subject: 1093743
+INFO:root:Converting subject: 1094669
+INFO:root:Converting subject: 1117299
+INFO:root:Converting subject: 1159908
+INFO:root:Converting subject: 1177160
+INFO:root:Converting subject: 1341865
+INFO:root:Converting subject: 1494102
+INFO:root:Converting subject: 1562298
+INFO:root:Converting subject: 1628610
+INFO:root:Converting subject: 1643780
+INFO:root:Converting subject: 1809715
+INFO:root:Converting subject: 1860323
+INFO:root:Converting subject: 1875013
+INFO:root:Converting subject: 1916266
+INFO:root:Converting subject: 2031422
+INFO:root:Converting subject: 2033178
+INFO:root:Converting subject: 2140063
+INFO:root:Converting subject: 2141250
+INFO:root:Converting subject: 2207418
+INFO:root:Converting subject: 2296326
+INFO:root:Converting subject: 2310449
+INFO:root:Converting subject: 2377207
+INFO:root:Converting subject: 2498847
+INFO:root:Converting subject: 2529026
+INFO:root:Converting subject: 2559537
+INFO:root:Converting subject: 2601519
+INFO:root:Converting subject: 2659769
+INFO:root:Converting subject: 2737106
+INFO:root:Converting subject: 2884672
+INFO:root:Converting subject: 2919220
+INFO:root:Converting subject: 2950754
+INFO:root:Converting subject: 3157406
+INFO:root:Converting subject: 3194757
+INFO:root:Converting subject: 3205761
+INFO:root:Converting subject: 3248920
+INFO:root:Converting subject: 3308331
+INFO:root:Converting subject: 3446674
+INFO:root:Converting subject: 3494778
+INFO:root:Converting subject: 3561920
+INFO:root:Converting subject: 3562883
+INFO:root:Converting subject: 3610134
+INFO:root:Converting subject: 3655623
+INFO:root:Converting subject: 3691107
+INFO:root:Converting subject: 3827352
+INFO:root:Converting subject: 3856956
+INFO:root:Converting subject: 3910672
+INFO:root:Converting subject: 3993793
+INFO:root:Converting subject: 3994098
+INFO:root:Converting subject: 4053388
+INFO:root:Converting subject: 4055710
+INFO:root:Converting subject: 4073815
+INFO:root:Converting subject: 4075719
+INFO:root:Converting subject: 4221029
+INFO:root:Converting subject: 4225073
+INFO:root:Converting subject: 4265987
+INFO:root:Converting subject: 5993008
+INFO:root:Converting subject: 6500128
+INFO:root:Converting subject: 7011503
+INFO:root:Converting subject: 7253183
+INFO:root:Converting subject: 7407032
+INFO:root:Converting subject: 7689953
+INFO:root:Converting subject: 8278680
+INFO:root:Converting subject: 9002207
+INFO:root:Converting subject: 9578631
+INFO:root:Converting subject: 9640133
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_2/nidm.ttl', png=False)
+WARNING:ontquery:You have not set an API key for the SciCrunch API! InterLexRemote will error if you try to use it.
+INFO:root:3655623
+INFO:root:3248920
+INFO:root:2659769
+INFO:root:9640133
+INFO:root:4055710
+INFO:root:1050975
+INFO:root:1809715
+INFO:root:1916266
+INFO:root:1117299
+INFO:root:2559537
+INFO:root:2296326
+INFO:root:7407032
+INFO:root:3157406
+INFO:root:3994098
+INFO:root:3561920
+INFO:root:2140063
+INFO:root:3610134
+INFO:root:3494778
+INFO:root:2033178
+INFO:root:1562298
+INFO:root:1093743
+INFO:root:1177160
+INFO:root:1860323
+INFO:root:1494102
+INFO:root:2498847
+INFO:root:1875013
+INFO:root:1068505
+INFO:root:3993793
+INFO:root:2310449
+INFO:root:3308331
+INFO:root:4265987
+INFO:root:3562883
+INFO:root:9578631
+INFO:root:2377207
+INFO:root:7011503
+INFO:root:8278680
+INFO:root:4075719
+INFO:root:2737106
+INFO:root:1159908
+INFO:root:4053388
+INFO:root:7689953
+INFO:root:2884672
+INFO:root:2601519
+INFO:root:2529026
+INFO:root:6500128
+INFO:root:1628610
+INFO:root:3691107
+INFO:root:4221029
+INFO:root:3856956
+INFO:root:1643780
+INFO:root:3910672
+INFO:root:3194757
+INFO:root:2141250
+INFO:root:9002207
+INFO:root:3446674
+INFO:root:2031422
+INFO:root:4073815
+INFO:root:1341865
+INFO:root:7253183
+INFO:root:5993008
+INFO:root:4225073
+INFO:root:1094669
+INFO:root:2950754
+INFO:root:2207418
+INFO:root:2919220
+INFO:root:3827352
+INFO:root:3205761
+INFO:root:Converting subject: 1050975
+INFO:root:Converting subject: 1068505
+INFO:root:Converting subject: 1093743
+INFO:root:Converting subject: 1094669
+INFO:root:Converting subject: 1117299
+INFO:root:Converting subject: 1159908
+INFO:root:Converting subject: 1177160
+INFO:root:Converting subject: 1341865
+INFO:root:Converting subject: 1494102
+INFO:root:Converting subject: 1562298
+INFO:root:Converting subject: 1628610
+INFO:root:Converting subject: 1643780
+INFO:root:Converting subject: 1809715
+INFO:root:Converting subject: 1860323
+INFO:root:Converting subject: 1875013
+INFO:root:Converting subject: 1916266
+INFO:root:Converting subject: 2031422
+INFO:root:Converting subject: 2033178
+INFO:root:Converting subject: 2140063
+INFO:root:Converting subject: 2141250
+INFO:root:Converting subject: 2207418
+INFO:root:Converting subject: 2296326
+INFO:root:Converting subject: 2310449
+INFO:root:Converting subject: 2377207
+INFO:root:Converting subject: 2498847
+INFO:root:Converting subject: 2529026
+INFO:root:Converting subject: 2559537
+INFO:root:Converting subject: 2601519
+INFO:root:Converting subject: 2659769
+INFO:root:Converting subject: 2737106
+INFO:root:Converting subject: 2884672
+INFO:root:Converting subject: 2919220
+INFO:root:Converting subject: 2950754
+INFO:root:Converting subject: 3157406
+INFO:root:Converting subject: 3194757
+INFO:root:Converting subject: 3205761
+INFO:root:Converting subject: 3248920
+INFO:root:Converting subject: 3308331
+INFO:root:Converting subject: 3446674
+INFO:root:Converting subject: 3494778
+INFO:root:Converting subject: 3561920
+INFO:root:Converting subject: 3562883
+INFO:root:Converting subject: 3610134
+INFO:root:Converting subject: 3655623
+INFO:root:Converting subject: 3691107
+INFO:root:Converting subject: 3827352
+INFO:root:Converting subject: 3856956
+INFO:root:Converting subject: 3910672
+INFO:root:Converting subject: 3993793
+INFO:root:Converting subject: 3994098
+INFO:root:Converting subject: 4053388
+INFO:root:Converting subject: 4055710
+INFO:root:Converting subject: 4073815
+INFO:root:Converting subject: 4075719
+INFO:root:Converting subject: 4221029
+INFO:root:Converting subject: 4225073
+INFO:root:Converting subject: 4265987
+INFO:root:Converting subject: 5993008
+INFO:root:Converting subject: 6500128
+INFO:root:Converting subject: 7011503
+INFO:root:Converting subject: 7253183
+INFO:root:Converting subject: 7407032
+INFO:root:Converting subject: 7689953
+INFO:root:Converting subject: 8278680
+INFO:root:Converting subject: 9002207
+INFO:root:Converting subject: 9578631
+INFO:root:Converting subject: 9640133
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..

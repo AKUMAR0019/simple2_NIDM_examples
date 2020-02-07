@@ -1,3 +1,184 @@
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, key='29hUT0BKdmUEgD6KLppEH9qDItY0eQXM', logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, key='29hUT0BKdmUEgD6KLppEH9qDItY0eQXM', logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, key='29hUT0BKdmUEgD6KLppEH9qDItY0eQXM', logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:1050345
+INFO:root:1132854
+INFO:root:1356553
+INFO:root:1399863
+INFO:root:1404738
+INFO:root:1411536
+INFO:root:1662160
+INFO:root:1771270
+INFO:root:1794770
+INFO:root:1843546
+INFO:root:2107404
+INFO:root:2208591
+INFO:root:2228148
+INFO:root:2268253
+INFO:root:2276801
+INFO:root:2493190
+INFO:root:2524687
+INFO:root:2780647
+INFO:root:2907951
+INFO:root:2940712
+INFO:root:2984158
+INFO:root:3224401
+INFO:root:3277313
+INFO:root:3291029
+INFO:root:3385520
+INFO:root:3473830
+INFO:root:3624598
+INFO:root:3672300
+INFO:root:3712305
+INFO:root:3803759
+INFO:root:3870624
+INFO:root:3930512
+INFO:root:4006710
+INFO:root:4048810
+INFO:root:4136226
+INFO:root:4241194
+INFO:root:5575344
+INFO:root:5669389
+INFO:root:6383713
+INFO:root:6477085
+INFO:root:7994085
+INFO:root:8191384
+INFO:root:Converting subject: 1050345
+INFO:root:Converting subject: 1132854
+INFO:root:Converting subject: 1356553
+INFO:root:Converting subject: 1399863
+INFO:root:Converting subject: 1404738
+INFO:root:Converting subject: 1411536
+INFO:root:Converting subject: 1662160
+INFO:root:Converting subject: 1771270
+INFO:root:Converting subject: 1794770
+INFO:root:Converting subject: 1843546
+INFO:root:Converting subject: 2107404
+INFO:root:Converting subject: 2208591
+INFO:root:Converting subject: 2228148
+INFO:root:Converting subject: 2268253
+INFO:root:Converting subject: 2276801
+INFO:root:Converting subject: 2493190
+INFO:root:Converting subject: 2524687
+INFO:root:Converting subject: 2780647
+INFO:root:Converting subject: 2907951
+INFO:root:Converting subject: 2940712
+INFO:root:Converting subject: 2984158
+INFO:root:Converting subject: 3224401
+INFO:root:Converting subject: 3277313
+INFO:root:Converting subject: 3291029
+INFO:root:Converting subject: 3385520
+INFO:root:Converting subject: 3473830
+INFO:root:Converting subject: 3624598
+INFO:root:Converting subject: 3672300
+INFO:root:Converting subject: 3712305
+INFO:root:Converting subject: 3803759
+INFO:root:Converting subject: 3870624
+INFO:root:Converting subject: 3930512
+INFO:root:Converting subject: 4006710
+INFO:root:Converting subject: 4048810
+INFO:root:Converting subject: 4136226
+INFO:root:Converting subject: 4241194
+INFO:root:Converting subject: 5575344
+INFO:root:Converting subject: 5669389
+INFO:root:Converting subject: 6383713
+INFO:root:Converting subject: 6477085
+INFO:root:Converting subject: 7994085
+INFO:root:Converting subject: 8191384
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/Peking_3/nidm.ttl', png=False)
+WARNING:ontquery:You have not set an API key for the SciCrunch API! InterLexRemote will error if you try to use it.
+INFO:root:1050345
+INFO:root:1132854
+INFO:root:1356553
+INFO:root:1399863
+INFO:root:1404738
+INFO:root:1411536
+INFO:root:1662160
+INFO:root:1771270
+INFO:root:1794770
+INFO:root:1843546
+INFO:root:2107404
+INFO:root:2208591
+INFO:root:2228148
+INFO:root:2268253
+INFO:root:2276801
+INFO:root:2493190
+INFO:root:2524687
+INFO:root:2780647
+INFO:root:2907951
+INFO:root:2940712
+INFO:root:2984158
+INFO:root:3224401
+INFO:root:3277313
+INFO:root:3291029
+INFO:root:3385520
+INFO:root:3473830
+INFO:root:3624598
+INFO:root:3672300
+INFO:root:3712305
+INFO:root:3803759
+INFO:root:3870624
+INFO:root:3930512
+INFO:root:4006710
+INFO:root:4048810
+INFO:root:4136226
+INFO:root:4241194
+INFO:root:5575344
+INFO:root:5669389
+INFO:root:6383713
+INFO:root:6477085
+INFO:root:7994085
+INFO:root:8191384
+INFO:root:Converting subject: 1050345
+INFO:root:Converting subject: 1132854
+INFO:root:Converting subject: 1356553
+INFO:root:Converting subject: 1399863
+INFO:root:Converting subject: 1404738
+INFO:root:Converting subject: 1411536
+INFO:root:Converting subject: 1662160
+INFO:root:Converting subject: 1771270
+INFO:root:Converting subject: 1794770
+INFO:root:Converting subject: 1843546
+INFO:root:Converting subject: 2107404
+INFO:root:Converting subject: 2208591
+INFO:root:Converting subject: 2228148
+INFO:root:Converting subject: 2268253
+INFO:root:Converting subject: 2276801
+INFO:root:Converting subject: 2493190
+INFO:root:Converting subject: 2524687
+INFO:root:Converting subject: 2780647
+INFO:root:Converting subject: 2907951
+INFO:root:Converting subject: 2940712
+INFO:root:Converting subject: 2984158
+INFO:root:Converting subject: 3224401
+INFO:root:Converting subject: 3277313
+INFO:root:Converting subject: 3291029
+INFO:root:Converting subject: 3385520
+INFO:root:Converting subject: 3473830
+INFO:root:Converting subject: 3624598
+INFO:root:Converting subject: 3672300
+INFO:root:Converting subject: 3712305
+INFO:root:Converting subject: 3803759
+INFO:root:Converting subject: 3870624
+INFO:root:Converting subject: 3930512
+INFO:root:Converting subject: 4006710
+INFO:root:Converting subject: 4048810
+INFO:root:Converting subject: 4136226
+INFO:root:Converting subject: 4241194
+INFO:root:Converting subject: 5575344
+INFO:root:Converting subject: 5669389
+INFO:root:Converting subject: 6383713
+INFO:root:Converting subject: 6477085
+INFO:root:Converting subject: 7994085
+INFO:root:Converting subject: 8191384
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
