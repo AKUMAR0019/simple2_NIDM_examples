@@ -5,3 +5,292 @@ INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, key='29hUT0BKdmUEgD6KLppEH9qDItY0eQXM', logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl', png=False)
 INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl', png=False)
 WARNING:ontquery:You have not set an API key for the SciCrunch API! InterLexRemote will error if you try to use it.
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/crypto_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/dc_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/iao_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nfo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nlx_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/obi_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/ontoneurolog_instruments_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/pato_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/prv_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/qibo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/sio_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/stato_import.ttl import file..continuing
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "POST /api/1/elastic-ilx/interlex/term/_search?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/crypto_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/dc_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/iao_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nfo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nlx_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/obi_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/ontoneurolog_instruments_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/pato_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/prv_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/qibo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/sio_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/stato_import.ttl import file..continuing
+INFO:root:15001
+INFO:root:15002
+INFO:root:15003
+INFO:root:15004
+INFO:root:15005
+INFO:root:15006
+INFO:root:15007
+INFO:root:15008
+INFO:root:15010
+INFO:root:15011
+INFO:root:15012
+INFO:root:15013
+INFO:root:15014
+INFO:root:15015
+INFO:root:15016
+INFO:root:15017
+INFO:root:15018
+INFO:root:15020
+INFO:root:15021
+INFO:root:15022
+INFO:root:15023
+INFO:root:15024
+INFO:root:15025
+INFO:root:15026
+INFO:root:15027
+INFO:root:15028
+INFO:root:15029
+INFO:root:15030
+INFO:root:15031
+INFO:root:15032
+INFO:root:15033
+INFO:root:15034
+INFO:root:15035
+INFO:root:15036
+INFO:root:15037
+INFO:root:15038
+INFO:root:15039
+INFO:root:15040
+INFO:root:15041
+INFO:root:15042
+INFO:root:15043
+INFO:root:15044
+INFO:root:15045
+INFO:root:15046
+INFO:root:15047
+INFO:root:15048
+INFO:root:15049
+INFO:root:15050
+INFO:root:15051
+INFO:root:15052
+INFO:root:15053
+INFO:root:15054
+INFO:root:15055
+INFO:root:15056
+INFO:root:15057
+INFO:root:15058
+INFO:root:15059
+INFO:root:15060
+INFO:root:15061
+INFO:root:15062
+INFO:root:Converting subject: 0015001
+INFO:root:Converting subject: 0015002
+INFO:root:Converting subject: 0015003
+INFO:root:Converting subject: 0015004
+INFO:root:Converting subject: 0015005
+INFO:root:Converting subject: 0015006
+INFO:root:Converting subject: 0015007
+INFO:root:Converting subject: 0015008
+INFO:root:Converting subject: 0015010
+INFO:root:Converting subject: 0015011
+INFO:root:Converting subject: 0015012
+INFO:root:Converting subject: 0015013
+INFO:root:Converting subject: 0015014
+INFO:root:Converting subject: 0015015
+INFO:root:Converting subject: 0015016
+INFO:root:Converting subject: 0015017
+INFO:root:Converting subject: 0015018
+INFO:root:Converting subject: 0015020
+INFO:root:Converting subject: 0015021
+INFO:root:Converting subject: 0015022
+INFO:root:Converting subject: 0015023
+INFO:root:Converting subject: 0015024
+INFO:root:Converting subject: 0015025
+INFO:root:Converting subject: 0015026
+INFO:root:Converting subject: 0015027
+INFO:root:Converting subject: 0015028
+INFO:root:Converting subject: 0015029
+INFO:root:Converting subject: 0015030
+INFO:root:Converting subject: 0015031
+INFO:root:Converting subject: 0015032
+INFO:root:Converting subject: 0015033
+INFO:root:Converting subject: 0015034
+INFO:root:Converting subject: 0015035
+INFO:root:Converting subject: 0015036
+INFO:root:Converting subject: 0015037
+INFO:root:Converting subject: 0015038
+INFO:root:Converting subject: 0015039
+INFO:root:Converting subject: 0015040
+INFO:root:Converting subject: 0015041
+INFO:root:Converting subject: 0015042
+INFO:root:Converting subject: 0015043
+INFO:root:Converting subject: 0015044
+INFO:root:Converting subject: 0015045
+INFO:root:Converting subject: 0015046
+INFO:root:Converting subject: 0015047
+INFO:root:Converting subject: 0015048
+INFO:root:Converting subject: 0015049
+INFO:root:Converting subject: 0015050
+INFO:root:Converting subject: 0015051
+INFO:root:Converting subject: 0015052
+INFO:root:Converting subject: 0015053
+INFO:root:Converting subject: 0015054
+INFO:root:Converting subject: 0015055
+INFO:root:Converting subject: 0015056
+INFO:root:Converting subject: 0015057
+INFO:root:Converting subject: 0015058
+INFO:root:Converting subject: 0015059
+INFO:root:Converting subject: 0015060
+INFO:root:Converting subject: 0015061
+INFO:root:Converting subject: 0015062
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:15001
+INFO:root:15002
+INFO:root:15003
+INFO:root:15004
+INFO:root:15005
+INFO:root:15006
+INFO:root:15007
+INFO:root:15008
+INFO:root:15010
+INFO:root:15011
+INFO:root:15012
+INFO:root:15013
+INFO:root:15014
+INFO:root:15015
+INFO:root:15016
+INFO:root:15017
+INFO:root:15018
+INFO:root:15020
+INFO:root:15021
+INFO:root:15022
+INFO:root:15023
+INFO:root:15024
+INFO:root:15025
+INFO:root:15026
+INFO:root:15027
+INFO:root:15028
+INFO:root:15029
+INFO:root:15030
+INFO:root:15031
+INFO:root:15032
+INFO:root:15033
+INFO:root:15034
+INFO:root:15035
+INFO:root:15036
+INFO:root:15037
+INFO:root:15038
+INFO:root:15039
+INFO:root:15040
+INFO:root:15041
+INFO:root:15042
+INFO:root:15043
+INFO:root:15044
+INFO:root:15045
+INFO:root:15046
+INFO:root:15047
+INFO:root:15048
+INFO:root:15049
+INFO:root:15050
+INFO:root:15051
+INFO:root:15052
+INFO:root:15053
+INFO:root:15054
+INFO:root:15055
+INFO:root:15056
+INFO:root:15057
+INFO:root:15058
+INFO:root:15059
+INFO:root:15060
+INFO:root:15061
+INFO:root:15062
+INFO:root:Converting subject: 0015001
+INFO:root:Converting subject: 0015002
+INFO:root:Converting subject: 0015003
+INFO:root:Converting subject: 0015004
+INFO:root:Converting subject: 0015005
+INFO:root:Converting subject: 0015006
+INFO:root:Converting subject: 0015007
+INFO:root:Converting subject: 0015008
+INFO:root:Converting subject: 0015010
+INFO:root:Converting subject: 0015011
+INFO:root:Converting subject: 0015012
+INFO:root:Converting subject: 0015013
+INFO:root:Converting subject: 0015014
+INFO:root:Converting subject: 0015015
+INFO:root:Converting subject: 0015016
+INFO:root:Converting subject: 0015017
+INFO:root:Converting subject: 0015018
+INFO:root:Converting subject: 0015020
+INFO:root:Converting subject: 0015021
+INFO:root:Converting subject: 0015022
+INFO:root:Converting subject: 0015023
+INFO:root:Converting subject: 0015024
+INFO:root:Converting subject: 0015025
+INFO:root:Converting subject: 0015026
+INFO:root:Converting subject: 0015027
+INFO:root:Converting subject: 0015028
+INFO:root:Converting subject: 0015029
+INFO:root:Converting subject: 0015030
+INFO:root:Converting subject: 0015031
+INFO:root:Converting subject: 0015032
+INFO:root:Converting subject: 0015033
+INFO:root:Converting subject: 0015034
+INFO:root:Converting subject: 0015035
+INFO:root:Converting subject: 0015036
+INFO:root:Converting subject: 0015037
+INFO:root:Converting subject: 0015038
+INFO:root:Converting subject: 0015039
+INFO:root:Converting subject: 0015040
+INFO:root:Converting subject: 0015041
+INFO:root:Converting subject: 0015042
+INFO:root:Converting subject: 0015043
+INFO:root:Converting subject: 0015044
+INFO:root:Converting subject: 0015045
+INFO:root:Converting subject: 0015046
+INFO:root:Converting subject: 0015047
+INFO:root:Converting subject: 0015048
+INFO:root:Converting subject: 0015049
+INFO:root:Converting subject: 0015050
+INFO:root:Converting subject: 0015051
+INFO:root:Converting subject: 0015052
+INFO:root:Converting subject: 0015053
+INFO:root:Converting subject: 0015054
+INFO:root:Converting subject: 0015055
+INFO:root:Converting subject: 0015056
+INFO:root:Converting subject: 0015057
+INFO:root:Converting subject: 0015058
+INFO:root:Converting subject: 0015059
+INFO:root:Converting subject: 0015060
+INFO:root:Converting subject: 0015061
+INFO:root:Converting subject: 0015062
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..

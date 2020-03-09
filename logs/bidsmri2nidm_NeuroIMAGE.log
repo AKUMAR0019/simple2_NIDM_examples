@@ -150,3 +150,321 @@ INFO:root:Converting subject: 8991934
 INFO:root:Converting subject: 9956994
 INFO:root:Writing NIDM file....
 INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/NeuroIMAGE', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/NeuroIMAGE/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/crypto_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/dc_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/iao_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nfo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/nlx_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/obi_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/ontoneurolog_instruments_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/pato_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/prv_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/qibo_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/sio_import.ttl import file..continuing
+INFO:root:Error opening /Users/dbkeator/opt/anaconda3/lib/python3.7/site-packages/nidm/terms/imports/stato_import.ttl import file..continuing
+INFO:root:27000
+INFO:root:27003
+INFO:root:27004
+INFO:root:27005
+INFO:root:27007
+INFO:root:27008
+INFO:root:27010
+INFO:root:27011
+INFO:root:27012
+INFO:root:27015
+INFO:root:27016
+INFO:root:27017
+INFO:root:27018
+INFO:root:27020
+INFO:root:27021
+INFO:root:27022
+INFO:root:27023
+INFO:root:27024
+INFO:root:27025
+INFO:root:27026
+INFO:root:27028
+INFO:root:27034
+INFO:root:27037
+INFO:root:27040
+INFO:root:27042
+INFO:root:1017176
+INFO:root:1125505
+INFO:root:1208586
+INFO:root:1312097
+INFO:root:1411495
+INFO:root:1438162
+INFO:root:1538046
+INFO:root:1585708
+INFO:root:1588809
+INFO:root:2029723
+INFO:root:2074737
+INFO:root:2352986
+INFO:root:2419464
+INFO:root:2574674
+INFO:root:2671604
+INFO:root:2756846
+INFO:root:2876903
+INFO:root:2961243
+INFO:root:3007585
+INFO:root:3048588
+INFO:root:3082137
+INFO:root:3108222
+INFO:root:3190461
+INFO:root:3304956
+INFO:root:3322144
+INFO:root:3449233
+INFO:root:3515506
+INFO:root:3566449
+INFO:root:3808273
+INFO:root:3858891
+INFO:root:3888614
+INFO:root:3941358
+INFO:root:3959823
+INFO:root:3980079
+INFO:root:4020830
+INFO:root:4134561
+INFO:root:4239636
+INFO:root:4285031
+INFO:root:4919979
+INFO:root:5045355
+INFO:root:6115230
+INFO:root:7339173
+INFO:root:7446626
+INFO:root:7504392
+INFO:root:8387093
+INFO:root:8409791
+INFO:root:8991934
+INFO:root:9956994
+INFO:root:Converting subject: 0027000
+INFO:root:Converting subject: 0027003
+INFO:root:Converting subject: 0027004
+INFO:root:Converting subject: 0027005
+INFO:root:Converting subject: 0027007
+INFO:root:Converting subject: 0027008
+INFO:root:Converting subject: 0027010
+INFO:root:Converting subject: 0027011
+INFO:root:Converting subject: 0027012
+INFO:root:Converting subject: 0027015
+INFO:root:Converting subject: 0027016
+INFO:root:Converting subject: 0027017
+INFO:root:Converting subject: 0027018
+INFO:root:Converting subject: 0027020
+INFO:root:Converting subject: 0027021
+INFO:root:Converting subject: 0027022
+INFO:root:Converting subject: 0027023
+INFO:root:Converting subject: 0027024
+INFO:root:Converting subject: 0027025
+INFO:root:Converting subject: 0027026
+INFO:root:Converting subject: 0027028
+INFO:root:Converting subject: 0027034
+INFO:root:Converting subject: 0027037
+INFO:root:Converting subject: 0027040
+INFO:root:Converting subject: 0027042
+INFO:root:Converting subject: 1017176
+INFO:root:Converting subject: 1125505
+INFO:root:Converting subject: 1208586
+INFO:root:Converting subject: 1312097
+INFO:root:Converting subject: 1411495
+INFO:root:Converting subject: 1438162
+INFO:root:Converting subject: 1538046
+INFO:root:Converting subject: 1585708
+INFO:root:Converting subject: 1588809
+INFO:root:Converting subject: 2029723
+INFO:root:Converting subject: 2074737
+INFO:root:Converting subject: 2352986
+INFO:root:Converting subject: 2419464
+INFO:root:Converting subject: 2574674
+INFO:root:Converting subject: 2671604
+INFO:root:Converting subject: 2756846
+INFO:root:Converting subject: 2876903
+INFO:root:Converting subject: 2961243
+INFO:root:Converting subject: 3007585
+INFO:root:Converting subject: 3048588
+INFO:root:Converting subject: 3082137
+INFO:root:Converting subject: 3108222
+INFO:root:Converting subject: 3190461
+INFO:root:Converting subject: 3304956
+INFO:root:Converting subject: 3322144
+INFO:root:Converting subject: 3449233
+INFO:root:Converting subject: 3515506
+INFO:root:Converting subject: 3566449
+INFO:root:Converting subject: 3808273
+INFO:root:Converting subject: 3858891
+INFO:root:Converting subject: 3888614
+INFO:root:Converting subject: 3941358
+INFO:root:Converting subject: 3959823
+INFO:root:Converting subject: 3980079
+INFO:root:Converting subject: 4020830
+INFO:root:Converting subject: 4134561
+INFO:root:Converting subject: 4239636
+INFO:root:Converting subject: 4285031
+INFO:root:Converting subject: 4919979
+INFO:root:Converting subject: 5045355
+INFO:root:Converting subject: 6115230
+INFO:root:Converting subject: 7339173
+INFO:root:Converting subject: 7446626
+INFO:root:Converting subject: 7504392
+INFO:root:Converting subject: 8387093
+INFO:root:Converting subject: 8409791
+INFO:root:Converting subject: 8991934
+INFO:root:Converting subject: 9956994
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/NeuroIMAGE', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/NeuroIMAGE/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:27000
+INFO:root:27003
+INFO:root:27004
+INFO:root:27005
+INFO:root:27007
+INFO:root:27008
+INFO:root:27010
+INFO:root:27011
+INFO:root:27012
+INFO:root:27015
+INFO:root:27016
+INFO:root:27017
+INFO:root:27018
+INFO:root:27020
+INFO:root:27021
+INFO:root:27022
+INFO:root:27023
+INFO:root:27024
+INFO:root:27025
+INFO:root:27026
+INFO:root:27028
+INFO:root:27034
+INFO:root:27037
+INFO:root:27040
+INFO:root:27042
+INFO:root:1017176
+INFO:root:1125505
+INFO:root:1208586
+INFO:root:1312097
+INFO:root:1411495
+INFO:root:1438162
+INFO:root:1538046
+INFO:root:1585708
+INFO:root:1588809
+INFO:root:2029723
+INFO:root:2074737
+INFO:root:2352986
+INFO:root:2419464
+INFO:root:2574674
+INFO:root:2671604
+INFO:root:2756846
+INFO:root:2876903
+INFO:root:2961243
+INFO:root:3007585
+INFO:root:3048588
+INFO:root:3082137
+INFO:root:3108222
+INFO:root:3190461
+INFO:root:3304956
+INFO:root:3322144
+INFO:root:3449233
+INFO:root:3515506
+INFO:root:3566449
+INFO:root:3808273
+INFO:root:3858891
+INFO:root:3888614
+INFO:root:3941358
+INFO:root:3959823
+INFO:root:3980079
+INFO:root:4020830
+INFO:root:4134561
+INFO:root:4239636
+INFO:root:4285031
+INFO:root:4919979
+INFO:root:5045355
+INFO:root:6115230
+INFO:root:7339173
+INFO:root:7446626
+INFO:root:7504392
+INFO:root:8387093
+INFO:root:8409791
+INFO:root:8991934
+INFO:root:9956994
+INFO:root:Converting subject: 0027000
+INFO:root:Converting subject: 0027003
+INFO:root:Converting subject: 0027004
+INFO:root:Converting subject: 0027005
+INFO:root:Converting subject: 0027007
+INFO:root:Converting subject: 0027008
+INFO:root:Converting subject: 0027010
+INFO:root:Converting subject: 0027011
+INFO:root:Converting subject: 0027012
+INFO:root:Converting subject: 0027015
+INFO:root:Converting subject: 0027016
+INFO:root:Converting subject: 0027017
+INFO:root:Converting subject: 0027018
+INFO:root:Converting subject: 0027020
+INFO:root:Converting subject: 0027021
+INFO:root:Converting subject: 0027022
+INFO:root:Converting subject: 0027023
+INFO:root:Converting subject: 0027024
+INFO:root:Converting subject: 0027025
+INFO:root:Converting subject: 0027026
+INFO:root:Converting subject: 0027028
+INFO:root:Converting subject: 0027034
+INFO:root:Converting subject: 0027037
+INFO:root:Converting subject: 0027040
+INFO:root:Converting subject: 0027042
+INFO:root:Converting subject: 1017176
+INFO:root:Converting subject: 1125505
+INFO:root:Converting subject: 1208586
+INFO:root:Converting subject: 1312097
+INFO:root:Converting subject: 1411495
+INFO:root:Converting subject: 1438162
+INFO:root:Converting subject: 1538046
+INFO:root:Converting subject: 1585708
+INFO:root:Converting subject: 1588809
+INFO:root:Converting subject: 2029723
+INFO:root:Converting subject: 2074737
+INFO:root:Converting subject: 2352986
+INFO:root:Converting subject: 2419464
+INFO:root:Converting subject: 2574674
+INFO:root:Converting subject: 2671604
+INFO:root:Converting subject: 2756846
+INFO:root:Converting subject: 2876903
+INFO:root:Converting subject: 2961243
+INFO:root:Converting subject: 3007585
+INFO:root:Converting subject: 3048588
+INFO:root:Converting subject: 3082137
+INFO:root:Converting subject: 3108222
+INFO:root:Converting subject: 3190461
+INFO:root:Converting subject: 3304956
+INFO:root:Converting subject: 3322144
+INFO:root:Converting subject: 3449233
+INFO:root:Converting subject: 3515506
+INFO:root:Converting subject: 3566449
+INFO:root:Converting subject: 3808273
+INFO:root:Converting subject: 3858891
+INFO:root:Converting subject: 3888614
+INFO:root:Converting subject: 3941358
+INFO:root:Converting subject: 3959823
+INFO:root:Converting subject: 3980079
+INFO:root:Converting subject: 4020830
+INFO:root:Converting subject: 4134561
+INFO:root:Converting subject: 4239636
+INFO:root:Converting subject: 4285031
+INFO:root:Converting subject: 4919979
+INFO:root:Converting subject: 5045355
+INFO:root:Converting subject: 6115230
+INFO:root:Converting subject: 7339173
+INFO:root:Converting subject: 7446626
+INFO:root:Converting subject: 7504392
+INFO:root:Converting subject: 8387093
+INFO:root:Converting subject: 8409791
+INFO:root:Converting subject: 8991934
+INFO:root:Converting subject: 9956994
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
