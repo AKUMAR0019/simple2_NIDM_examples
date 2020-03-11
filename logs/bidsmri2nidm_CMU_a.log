@@ -187,3 +187,38 @@ INFO:root:Converting subject: 0050666
 INFO:root:Converting subject: 0050668
 INFO:root:Writing NIDM file....
 INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/abide/RawDataBIDS/CMU_a', json_map=False, jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/abide/RawDataBIDS/CMU_a/nidm.ttl', png=False)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM&api_key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+INFO:root:50642
+INFO:root:50646
+INFO:root:50647
+INFO:root:50649
+INFO:root:50653
+INFO:root:50654
+INFO:root:50656
+INFO:root:50659
+INFO:root:50660
+INFO:root:50663
+INFO:root:50664
+INFO:root:50665
+INFO:root:50666
+INFO:root:50668
+INFO:root:Converting subject: 0050642
+INFO:root:Converting subject: 0050646
+INFO:root:Converting subject: 0050647
+INFO:root:Converting subject: 0050649
+INFO:root:Converting subject: 0050653
+INFO:root:Converting subject: 0050654
+INFO:root:Converting subject: 0050656
+INFO:root:Converting subject: 0050659
+INFO:root:Converting subject: 0050660
+INFO:root:Converting subject: 0050663
+INFO:root:Converting subject: 0050664
+INFO:root:Converting subject: 0050665
+INFO:root:Converting subject: 0050666
+INFO:root:Converting subject: 0050668
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
