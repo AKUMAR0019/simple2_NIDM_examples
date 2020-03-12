@@ -60,3 +60,12 @@ INFO:root:Converting subject: 0051326
 INFO:root:Converting subject: 0051327
 INFO:root:Writing NIDM file....
 INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/abide/RawDataBIDS/MaxMun_b', json_map=False, jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/abide/RawDataBIDS/MaxMun_b/nidm.ttl', png=False)
+INFO:root:Converting subject: 0051322
+INFO:root:Converting subject: 0051323
+INFO:root:Converting subject: 0051324
+INFO:root:Converting subject: 0051325
+INFO:root:Converting subject: 0051326
+INFO:root:Converting subject: 0051327
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
