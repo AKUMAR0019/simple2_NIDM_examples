@@ -1,0 +1,854 @@
+2020-05-27 14:15:19,535 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-27 14:15:19,535 INFO NIDM file already exists for dataset: ds001720
+2020-05-27 14:15:19,539 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-27 14:15:20,257 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000114
+2020-05-27 14:15:20,258 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000114/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000114/participants.json
+2020-05-27 14:15:20,279 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000114 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000114/nidm.ttl -bidsignore -no_concepts
+2020-05-27 14:17:16,023 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000114.
+2020-05-27 14:17:16,030 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-27 14:17:16,034 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-27 14:17:16,039 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-27 14:19:44,500 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224
+2020-05-27 14:19:44,501 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/participants.json
+2020-05-27 14:19:44,539 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/NIH_Toolbox.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/NIH_Toolbox.json
+2020-05-27 14:19:44,548 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/NEO_FFI.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/NEO_FFI.json
+2020-05-27 14:19:44,556 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/BAS_BIS.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/BAS_BIS.json
+2020-05-27 14:19:44,559 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/KBIT2.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/KBIT2.json
+2020-05-27 14:19:44,562 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000224/nidm.ttl -bidsignore -no_concepts
+2020-05-27 17:25:06,807 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-27 17:25:06,807 INFO NIDM file already exists for dataset: ds001720
+2020-05-27 17:25:06,811 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-27 17:25:06,811 INFO NIDM file already exists for dataset: ds000114
+2020-05-27 17:25:06,815 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-27 17:25:06,819 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-27 17:25:06,823 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-27 17:25:09,050 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224
+2020-05-27 17:25:09,051 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/participants.json
+2020-05-27 17:25:09,053 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/NIH_Toolbox.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/NIH_Toolbox.json
+2020-05-27 17:25:09,056 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/NEO_FFI.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/NEO_FFI.json
+2020-05-27 17:25:09,058 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/BAS_BIS.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/BAS_BIS.json
+2020-05-27 17:25:09,060 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000224/phenotype/KBIT2.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224/phenotype/KBIT2.json
+2020-05-27 17:25:09,063 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000224 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000224/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:12:12,079 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000224.
+2020-05-27 18:12:12,089 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001178.
+2020-05-27 18:12:12,089 INFO NIDM file already exists for dataset: ds000120
+2020-05-27 18:12:12,089 INFO NIDM file already exists for dataset: ds000113
+2020-05-27 18:12:12,093 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002041.
+2020-05-27 18:12:12,098 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002006.
+2020-05-27 18:12:12,595 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001419
+2020-05-27 18:12:12,596 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001419/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001419/participants.json
+2020-05-27 18:12:12,603 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001419 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001419/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:12:26,927 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001419.
+2020-05-27 18:12:26,932 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001353.
+2020-05-27 18:13:01,243 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000168
+2020-05-27 18:13:01,244 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000168/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000168/participants.json
+2020-05-27 18:13:01,272 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000168 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000168/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:14:28,076 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000168.
+2020-05-27 18:14:28,115 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000030.
+2020-05-27 18:23:16,924 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001430
+2020-05-27 18:23:16,925 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001430/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001430/participants.json
+2020-05-27 18:23:16,937 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001430 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001430/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:36:42,176 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001430.
+2020-05-27 18:36:42,184 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002185.
+2020-05-27 18:36:42,188 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001608.
+2020-05-27 18:36:42,192 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001882.
+2020-05-27 18:37:25,847 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000245
+2020-05-27 18:37:25,848 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000245/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000245/participants.json
+2020-05-27 18:37:25,857 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000245 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000245/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:38:51,687 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000245.
+2020-05-27 18:38:51,695 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002336.
+2020-05-27 18:38:51,700 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001868.
+2020-05-27 18:38:56,096 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000246
+2020-05-27 18:38:56,096 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000246/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000246/participants.json
+2020-05-27 18:38:56,112 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000246 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000246/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:39:07,829 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000246.
+2020-05-27 18:44:37,318 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001232
+2020-05-27 18:44:37,319 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001232/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001232/participants.json
+2020-05-27 18:44:37,334 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001232 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001232/nidm.ttl -bidsignore -no_concepts
+2020-05-27 18:48:58,281 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001232.
+2020-05-27 18:51:36,695 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001226
+2020-05-27 18:51:36,696 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001226/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001226/participants.json
+2020-05-27 18:51:36,710 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001226 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001226/nidm.ttl -bidsignore -no_concepts
+2020-05-28 11:28:36,047 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-28 11:28:36,048 INFO NIDM file already exists for dataset: ds001720
+2020-05-28 11:28:36,052 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-28 11:28:36,053 INFO NIDM file already exists for dataset: ds000114
+2020-05-28 11:28:36,056 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-28 11:28:36,060 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-28 11:28:36,064 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-28 11:28:36,064 INFO NIDM file already exists for dataset: ds000224
+2020-05-28 11:28:36,070 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001178.
+2020-05-28 11:28:36,070 INFO NIDM file already exists for dataset: ds000120
+2020-05-28 11:28:36,070 INFO NIDM file already exists for dataset: ds000113
+2020-05-28 11:28:36,075 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002041.
+2020-05-28 11:28:36,078 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002006.
+2020-05-28 11:28:36,079 INFO NIDM file already exists for dataset: ds001419
+2020-05-28 11:28:36,083 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001353.
+2020-05-28 11:28:36,084 INFO NIDM file already exists for dataset: ds000168
+2020-05-28 11:28:36,121 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000030.
+2020-05-28 11:28:36,121 INFO NIDM file already exists for dataset: ds001430
+2020-05-28 11:28:36,125 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002185.
+2020-05-28 11:28:36,129 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001608.
+2020-05-28 11:28:36,133 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001882.
+2020-05-28 11:28:36,133 INFO NIDM file already exists for dataset: ds000245
+2020-05-28 11:28:36,137 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002336.
+2020-05-28 11:28:36,140 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001868.
+2020-05-28 11:28:36,140 INFO NIDM file already exists for dataset: ds000246
+2020-05-28 11:28:36,140 INFO NIDM file already exists for dataset: ds001232
+2020-05-28 11:28:36,141 INFO NIDM file already exists for dataset: ds001226
+2020-05-28 11:28:36,144 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001908.
+2020-05-28 11:28:36,148 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002301.
+2020-05-28 11:31:32,056 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000172.
+2020-05-28 11:31:32,064 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001942.
+2020-05-28 11:31:32,068 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002013.
+2020-05-28 11:31:32,073 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002154.
+2020-05-28 11:31:32,077 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002270.
+2020-05-28 11:31:32,081 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002722.
+2020-05-28 11:31:32,086 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001784.
+2020-05-28 11:31:32,091 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001554.
+2020-05-28 11:31:32,096 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001743.
+2020-05-28 11:31:32,101 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002750.
+2020-05-28 11:31:32,106 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002011.
+2020-05-28 11:31:32,111 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001493.
+2020-05-28 11:31:32,115 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002000.
+2020-05-28 11:31:32,119 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001971.
+2020-05-28 11:47:10,457 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001242
+2020-05-28 11:47:10,459 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001242/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001242/participants.json
+2020-05-28 11:47:10,492 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001242 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001242/nidm.ttl -bidsignore -no_concepts
+2020-05-28 11:59:53,197 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001242.
+2020-05-28 11:59:53,200 INFO NIDM file already exists for dataset: ds000221
+2020-05-28 12:00:51,799 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000138
+2020-05-28 12:00:51,800 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000138/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000138/participants.json
+2020-05-28 12:00:51,824 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000138 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000138/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:01:27,768 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000138.
+2020-05-28 12:04:50,663 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000220
+2020-05-28 12:04:50,664 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000220/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000220/participants.json
+2020-05-28 12:04:50,693 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000220 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000220/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:06:50,076 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000220.
+2020-05-28 12:06:50,084 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002522.
+2020-05-28 12:06:50,090 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001761.
+2020-05-28 12:06:50,094 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002250.
+2020-05-28 12:09:02,733 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000214
+2020-05-28 12:09:02,734 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000214/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000214/participants.json
+2020-05-28 12:09:02,771 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000214 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000214/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:10:17,351 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000214.
+2020-05-28 12:12:01,264 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000208
+2020-05-28 12:12:01,264 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000208/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000208/participants.json
+2020-05-28 12:12:01,294 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000208 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000208/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:14:53,170 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000208.
+2020-05-28 12:14:53,179 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000122.
+2020-05-28 12:20:50,816 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001229
+2020-05-28 12:20:50,817 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001229/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001229/participants.json
+2020-05-28 12:20:50,851 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001229 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001229/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:24:13,813 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001229.
+2020-05-28 12:29:23,926 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000171
+2020-05-28 12:29:23,927 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000171/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000171/participants.json
+2020-05-28 12:29:23,952 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000171 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000171/nidm.ttl -bidsignore -no_concepts
+2020-05-28 12:32:32,229 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000171.
+2020-05-28 13:11:39,385 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000238
+2020-05-28 13:11:39,385 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000238/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000238/participants.json
+2020-05-28 13:11:39,415 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds000238 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000238/nidm.ttl -bidsignore -no_concepts
+2020-05-28 13:20:04,729 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds000238.
+2020-05-28 13:46:07,877 INFO Running datalad get command on dataset: /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001510
+2020-05-28 13:46:07,878 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001510/participants.json, dest=/Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001510/participants.json
+2020-05-28 13:46:07,911 INFO Running command: bidsmri2nidm -d /Users/dbkeator/Downloads/datasets.datalad.org/openneuro/ds001510 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001510/nidm.ttl -bidsignore -no_concepts
+2020-05-28 13:51:08,604 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for uninstalling dataset ds001510.
+2020-05-28 13:51:08,612 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001810.
+2020-05-28 13:51:08,616 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-05-28 13:51:08,620 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000102.
+2020-05-28 13:51:08,622 INFO NIDM file already exists for dataset: ds001486
+2020-05-28 13:51:08,626 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002363.
+2020-05-28 13:51:08,630 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001725.
+2020-05-28 13:51:08,634 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-05-28 13:51:08,638 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000011.
+2020-05-28 13:51:08,642 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001566.
+2020-05-28 14:12:14,856 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-28 14:12:14,857 INFO NIDM file already exists for dataset: ds001720
+2020-05-28 14:12:14,861 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-28 14:12:14,862 INFO NIDM file already exists for dataset: ds000114
+2020-05-28 14:12:14,866 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-28 14:12:14,870 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-28 14:12:14,873 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-28 14:12:14,874 INFO NIDM file already exists for dataset: ds000224
+2020-05-28 14:12:14,878 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001178.
+2020-05-28 14:12:14,879 INFO NIDM file already exists for dataset: ds000120
+2020-05-28 14:12:14,880 INFO NIDM file already exists for dataset: ds000113
+2020-05-28 14:12:14,884 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002041.
+2020-05-28 14:12:14,888 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002006.
+2020-05-28 14:12:14,888 INFO NIDM file already exists for dataset: ds001419
+2020-05-28 14:12:14,892 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001353.
+2020-05-28 14:12:14,893 INFO NIDM file already exists for dataset: ds000168
+2020-05-28 14:12:14,928 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000030.
+2020-05-28 14:12:14,929 INFO NIDM file already exists for dataset: ds001430
+2020-05-28 14:12:14,933 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002185.
+2020-05-28 14:12:14,937 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001608.
+2020-05-28 14:12:14,941 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001882.
+2020-05-28 14:12:14,941 INFO NIDM file already exists for dataset: ds000245
+2020-05-28 14:12:14,945 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002336.
+2020-05-28 14:12:14,949 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001868.
+2020-05-28 14:12:14,949 INFO NIDM file already exists for dataset: ds000246
+2020-05-28 14:12:14,949 INFO NIDM file already exists for dataset: ds001232
+2020-05-28 14:12:14,950 INFO NIDM file already exists for dataset: ds001226
+2020-05-28 14:12:14,953 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001908.
+2020-05-28 14:12:14,957 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002301.
+2020-05-28 14:12:14,961 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000172.
+2020-05-28 14:12:14,965 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001942.
+2020-05-28 14:12:14,969 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002013.
+2020-05-28 14:12:14,973 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002154.
+2020-05-28 14:12:14,977 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002270.
+2020-05-28 14:12:14,980 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002722.
+2020-05-28 14:12:14,984 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001784.
+2020-05-28 14:12:14,988 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001554.
+2020-05-28 14:12:14,992 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001743.
+2020-05-28 14:12:14,996 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002750.
+2020-05-28 14:12:15,000 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002011.
+2020-05-28 14:12:15,003 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001493.
+2020-05-28 14:12:15,007 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002000.
+2020-05-28 14:12:15,011 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001971.
+2020-05-28 14:12:15,011 INFO NIDM file already exists for dataset: ds001242
+2020-05-28 14:12:15,011 INFO NIDM file already exists for dataset: ds000221
+2020-05-28 14:12:15,012 INFO NIDM file already exists for dataset: ds000138
+2020-05-28 14:12:15,012 INFO NIDM file already exists for dataset: ds000220
+2020-05-28 14:12:15,016 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002522.
+2020-05-28 14:12:15,020 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001761.
+2020-05-28 14:12:15,024 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002250.
+2020-05-28 14:12:15,024 INFO NIDM file already exists for dataset: ds000214
+2020-05-28 14:12:15,024 INFO NIDM file already exists for dataset: ds000208
+2020-05-28 14:12:15,028 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000122.
+2020-05-28 14:12:15,029 INFO NIDM file already exists for dataset: ds001229
+2020-05-28 14:12:15,029 INFO NIDM file already exists for dataset: ds000171
+2020-05-28 14:12:15,029 INFO NIDM file already exists for dataset: ds000238
+2020-05-28 14:12:15,029 INFO NIDM file already exists for dataset: ds001510
+2020-05-28 14:12:15,033 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001810.
+2020-05-28 14:12:15,036 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-05-28 14:12:15,039 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000102.
+2020-05-28 14:12:15,040 INFO NIDM file already exists for dataset: ds001486
+2020-05-28 14:12:15,044 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002363.
+2020-05-28 14:12:15,048 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001725.
+2020-05-28 14:12:15,052 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-05-28 14:12:15,056 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000011.
+2020-05-28 14:12:15,060 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001566.
+2020-05-28 14:12:15,064 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000053.
+2020-05-28 14:12:15,068 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001840.
+2020-05-28 14:12:15,071 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000231.
+2020-05-28 14:12:15,075 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001378.
+2020-05-28 14:12:15,079 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000001.
+2020-05-28 14:12:15,084 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001934.
+2020-05-28 14:12:15,088 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001928.
+2020-05-28 14:12:15,092 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001454.
+2020-05-28 14:12:15,095 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000213.
+2020-05-28 14:12:15,100 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001417.
+2020-05-28 14:12:15,103 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000244.
+2020-05-28 14:12:15,107 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001511.
+2020-05-28 14:12:15,111 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001491.
+2020-05-28 14:12:15,115 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000219.
+2020-05-28 14:12:15,119 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000200.
+2020-05-28 14:12:15,124 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002393.
+2020-05-28 14:12:15,128 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001386.
+2020-05-28 14:12:15,131 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001460.
+2020-05-28 14:12:15,135 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001228.
+2020-05-28 14:12:15,139 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001531.
+2020-05-28 14:12:15,143 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000256.
+2020-05-28 14:12:15,146 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002702.
+2020-05-28 14:12:15,150 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000007.
+2020-05-28 14:12:15,154 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002685.
+2020-05-28 14:12:15,158 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002680.
+2020-05-28 14:12:15,162 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002345.
+2020-05-28 14:12:15,166 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001927.
+2020-05-28 14:12:15,171 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000201.
+2020-05-28 14:12:15,174 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001985.
+2020-05-28 14:12:15,177 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002322.
+2020-05-28 14:12:15,181 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001345.
+2020-05-28 14:12:15,184 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002337.
+2020-05-28 14:12:15,188 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002655.
+2020-05-28 14:12:15,192 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001482.
+2020-05-28 14:12:15,196 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002717.
+2020-05-28 14:12:15,199 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002572.
+2020-05-28 14:12:15,203 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001517.
+2020-05-28 14:12:15,207 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001919.
+2020-05-28 14:12:15,210 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001981.
+2020-05-28 14:12:15,214 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001547.
+2020-05-28 14:12:15,218 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001525.
+2020-05-28 14:12:15,222 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000202.
+2020-05-28 14:12:15,226 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002152.
+2020-05-28 14:12:15,230 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000133.
+2020-05-28 14:12:15,234 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000119.
+2020-05-28 14:12:15,238 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000229.
+2020-05-28 14:12:15,253 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001894.
+2020-05-28 14:12:15,257 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001021.
+2020-05-28 14:12:15,260 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001297.
+2020-05-28 14:12:15,264 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002712.
+2020-05-28 14:12:15,268 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000239.
+2020-05-28 14:12:15,273 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000210.
+2020-05-28 14:12:15,277 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000009.
+2020-05-28 14:12:15,281 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000205.
+2020-05-28 14:12:15,285 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001596.
+2020-05-28 14:12:15,289 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000006.
+2020-05-28 14:12:15,293 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002330.
+2020-05-28 14:12:15,297 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001450.
+2020-05-28 14:12:15,301 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000003.
+2020-05-28 14:12:15,305 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001365.
+2020-05-28 14:12:15,308 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002543.
+2020-05-28 14:12:15,312 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001439.
+2020-05-28 14:12:15,316 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002366.
+2020-05-28 14:12:15,320 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002724.
+2020-05-28 14:12:15,324 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002033.
+2020-05-28 14:12:15,328 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002419.
+2020-05-28 14:12:15,332 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001653.
+2020-05-28 14:12:15,336 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001618.
+2020-05-28 14:12:15,340 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000157.
+2020-05-28 14:12:15,344 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000222.
+2020-05-28 14:12:15,347 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000233.
+2020-05-28 14:12:15,351 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000240.
+2020-05-28 14:12:15,355 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002338.
+2020-05-28 14:12:15,359 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000117.
+2020-05-28 14:12:15,363 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000218.
+2020-05-28 14:12:15,367 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002181.
+2020-05-28 14:12:15,371 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000121.
+2020-05-28 14:12:15,375 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001502.
+2020-05-28 14:12:15,379 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001895.
+2020-05-28 14:12:15,382 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001544.
+2020-05-28 14:12:15,386 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000115.
+2020-05-28 14:12:15,389 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000110.
+2020-05-28 14:12:15,394 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002723.
+2020-05-28 14:12:15,398 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002725.
+2020-05-28 14:12:15,402 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002718.
+2020-05-28 14:12:15,406 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002749.
+2020-05-28 14:12:15,410 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002080.
+2020-05-28 14:12:15,413 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001603.
+2020-05-28 14:12:15,417 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001233.
+2020-05-28 14:12:15,423 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001107.
+2020-05-28 14:12:15,427 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001306.
+2020-05-28 14:12:15,431 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002683.
+2020-05-28 14:12:15,436 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001722.
+2020-05-28 14:12:15,439 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002653.
+2020-05-28 14:12:15,442 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001890.
+2020-05-28 14:12:15,446 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001597.
+2020-05-28 14:12:15,450 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001354.
+2020-05-28 14:12:15,453 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002334.
+2020-05-28 14:12:15,457 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000108.
+2020-05-28 14:12:15,461 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000217.
+2020-05-28 14:12:15,465 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000170.
+2020-05-28 14:12:15,469 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000101.
+2020-05-28 14:12:15,473 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000144.
+2020-05-28 14:12:15,477 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002720.
+2020-05-28 14:12:15,481 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000249.
+2020-05-28 14:12:15,485 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001344.
+2020-05-28 14:12:15,488 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000212.
+2020-05-28 14:12:15,492 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001740.
+2020-05-28 14:12:15,496 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002728.
+2020-05-28 14:12:15,500 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000243.
+2020-05-28 14:12:15,504 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001168.
+2020-05-28 14:12:15,508 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002276.
+2020-05-28 14:12:15,512 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000247.
+2020-05-28 14:12:15,516 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001746.
+2020-05-28 14:12:15,519 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001883.
+2020-05-28 14:12:15,523 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000017.
+2020-05-28 14:12:15,527 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002242.
+2020-05-28 14:12:15,530 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001165.
+2020-05-28 14:12:15,534 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001110.
+2020-05-28 14:12:15,538 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001734.
+2020-05-28 14:12:15,541 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001241.
+2020-05-28 14:12:15,545 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001499.
+2020-05-28 14:12:15,549 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001553.
+2020-05-28 14:12:15,553 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001652.
+2020-05-28 14:12:15,556 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001645.
+2020-05-28 14:12:15,560 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001670.
+2020-05-28 14:12:15,564 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000002.
+2020-05-28 14:12:15,568 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002034.
+2020-05-28 14:12:15,572 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000148.
+2020-05-28 14:12:15,576 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000254.
+2020-05-28 14:12:15,580 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001408.
+2020-05-28 14:12:15,584 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001569.
+2020-05-28 14:12:15,588 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000235.
+2020-05-28 14:12:15,592 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001399.
+2020-05-28 14:12:15,596 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002687.
+2020-05-28 14:12:15,600 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001461.
+2020-05-28 14:12:15,604 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001529.
+2020-05-28 14:12:15,608 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000174.
+2020-05-28 14:12:15,612 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001338.
+2020-05-28 14:12:15,616 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001555.
+2020-05-28 14:12:15,619 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001650.
+2020-05-28 14:12:15,623 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001631.
+2020-05-28 14:12:15,627 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001534.
+2020-05-28 14:12:15,637 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002236.
+2020-05-28 14:12:15,641 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001299.
+2020-05-28 14:12:15,645 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000234.
+2020-05-28 14:12:15,649 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000253.
+2020-05-28 14:12:15,652 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001750.
+2020-05-28 14:12:15,655 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001966.
+2020-05-28 14:12:15,659 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001976.
+2020-05-28 14:12:15,663 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000140.
+2020-05-28 14:12:15,666 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002068.
+2020-05-28 14:12:15,670 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000116.
+2020-05-28 14:12:15,674 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000005.
+2020-05-28 14:12:15,679 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000008.
+2020-05-28 14:12:15,683 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002711.
+2020-05-28 14:12:15,686 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001545.
+2020-05-28 14:12:15,690 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002732.
+2020-05-28 14:12:15,694 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001131.
+2020-05-28 14:12:15,698 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002411.
+2020-05-28 14:12:15,701 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000203.
+2020-05-28 14:12:15,705 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002691.
+2020-05-28 14:12:15,709 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000236.
+2020-05-28 14:12:15,713 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001748.
+2020-05-28 14:12:33,070 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-28 14:12:33,070 INFO NIDM file already exists for dataset: ds001720
+2020-05-28 14:12:33,074 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-28 14:12:33,074 INFO NIDM file already exists for dataset: ds000114
+2020-05-28 14:12:33,077 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-28 14:12:33,081 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-28 14:12:33,085 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-28 14:12:33,085 INFO NIDM file already exists for dataset: ds000224
+2020-05-28 14:12:33,089 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001178.
+2020-05-28 14:12:33,089 INFO NIDM file already exists for dataset: ds000120
+2020-05-28 14:12:33,089 INFO NIDM file already exists for dataset: ds000113
+2020-05-28 14:12:33,092 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002041.
+2020-05-28 14:12:33,096 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002006.
+2020-05-28 14:12:33,096 INFO NIDM file already exists for dataset: ds001419
+2020-05-28 14:12:33,099 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001353.
+2020-05-28 14:12:33,099 INFO NIDM file already exists for dataset: ds000168
+2020-05-28 14:12:33,116 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000030.
+2020-05-28 14:12:33,116 INFO NIDM file already exists for dataset: ds001430
+2020-05-28 14:12:33,119 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002185.
+2020-05-28 14:12:33,123 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001608.
+2020-05-28 14:12:33,126 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001882.
+2020-05-28 14:12:33,126 INFO NIDM file already exists for dataset: ds000245
+2020-05-28 14:12:33,130 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002336.
+2020-05-28 14:12:33,133 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001868.
+2020-05-28 14:12:33,133 INFO NIDM file already exists for dataset: ds000246
+2020-05-28 14:12:33,133 INFO NIDM file already exists for dataset: ds001232
+2020-05-28 14:12:33,134 INFO NIDM file already exists for dataset: ds001226
+2020-05-28 14:12:33,137 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001908.
+2020-05-28 14:12:33,141 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002301.
+2020-05-28 14:12:33,144 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000172.
+2020-05-28 14:12:33,148 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001942.
+2020-05-28 14:12:33,151 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002013.
+2020-05-28 14:12:33,154 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002154.
+2020-05-28 14:12:33,158 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002270.
+2020-05-28 14:12:33,161 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002722.
+2020-05-28 14:12:33,165 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001784.
+2020-05-28 14:12:33,168 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001554.
+2020-05-28 14:12:33,172 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001743.
+2020-05-28 14:12:33,175 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002750.
+2020-05-28 14:12:33,179 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002011.
+2020-05-28 14:12:33,181 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001493.
+2020-05-28 14:12:33,185 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002000.
+2020-05-28 14:12:33,188 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001971.
+2020-05-28 14:12:33,188 INFO NIDM file already exists for dataset: ds001242
+2020-05-28 14:12:33,188 INFO NIDM file already exists for dataset: ds000221
+2020-05-28 14:12:33,188 INFO NIDM file already exists for dataset: ds000138
+2020-05-28 14:12:33,188 INFO NIDM file already exists for dataset: ds000220
+2020-05-28 14:12:33,192 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002522.
+2020-05-28 14:12:33,195 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001761.
+2020-05-28 14:12:33,198 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002250.
+2020-05-28 14:12:33,199 INFO NIDM file already exists for dataset: ds000214
+2020-05-28 14:12:33,199 INFO NIDM file already exists for dataset: ds000208
+2020-05-28 14:12:33,202 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000122.
+2020-05-28 14:12:33,202 INFO NIDM file already exists for dataset: ds001229
+2020-05-28 14:12:33,203 INFO NIDM file already exists for dataset: ds000171
+2020-05-28 14:12:33,203 INFO NIDM file already exists for dataset: ds000238
+2020-05-28 14:12:33,203 INFO NIDM file already exists for dataset: ds001510
+2020-05-28 14:12:33,206 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001810.
+2020-05-28 14:12:33,208 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-05-28 14:12:33,212 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000102.
+2020-05-28 14:12:33,212 INFO NIDM file already exists for dataset: ds001486
+2020-05-28 14:12:33,215 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002363.
+2020-05-28 14:12:33,219 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001725.
+2020-05-28 14:12:33,223 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-05-28 14:12:33,226 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000011.
+2020-05-28 14:12:33,230 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001566.
+2020-05-28 14:12:33,233 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000053.
+2020-05-28 14:12:33,237 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001840.
+2020-05-28 14:12:33,240 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000231.
+2020-05-28 14:12:33,244 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001378.
+2020-05-28 14:12:33,247 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000001.
+2020-05-28 14:12:33,250 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001934.
+2020-05-28 14:12:33,254 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001928.
+2020-05-28 14:12:33,257 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001454.
+2020-05-28 14:12:33,261 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000213.
+2020-05-28 14:12:33,264 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001417.
+2020-05-28 14:12:33,268 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000244.
+2020-05-28 14:12:33,271 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001511.
+2020-05-28 14:12:33,275 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001491.
+2020-05-28 14:12:33,279 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000219.
+2020-05-28 14:12:33,283 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000200.
+2020-05-28 14:12:33,286 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002393.
+2020-05-28 14:12:33,290 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001386.
+2020-05-28 14:12:33,293 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001460.
+2020-05-28 14:12:33,296 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001228.
+2020-05-28 14:12:33,300 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001531.
+2020-05-28 14:12:33,303 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000256.
+2020-05-28 14:12:33,307 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002702.
+2020-05-28 14:12:33,310 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000007.
+2020-05-28 14:12:33,314 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002685.
+2020-05-28 14:12:33,318 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002680.
+2020-05-28 14:12:33,321 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002345.
+2020-05-28 14:12:33,325 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001927.
+2020-05-28 14:12:33,328 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000201.
+2020-05-28 14:12:33,330 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001985.
+2020-05-28 14:12:33,334 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002322.
+2020-05-28 14:12:33,337 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001345.
+2020-05-28 14:12:33,340 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002337.
+2020-05-28 14:12:33,343 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002655.
+2020-05-28 14:12:33,346 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001482.
+2020-05-28 14:12:33,352 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002717.
+2020-05-28 14:12:33,355 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002572.
+2020-05-28 14:12:33,358 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001517.
+2020-05-28 14:12:33,362 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001919.
+2020-05-28 14:12:33,365 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001981.
+2020-05-28 14:12:33,369 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001547.
+2020-05-28 14:12:33,372 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001525.
+2020-05-28 14:12:33,376 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000202.
+2020-05-28 14:12:33,380 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002152.
+2020-05-28 14:12:33,383 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000133.
+2020-05-28 14:12:33,387 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000119.
+2020-05-28 14:12:33,390 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000229.
+2020-05-28 14:12:33,400 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001894.
+2020-05-28 14:12:33,403 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001021.
+2020-05-28 14:12:33,407 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001297.
+2020-05-28 14:12:33,410 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002712.
+2020-05-28 14:12:33,414 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000239.
+2020-05-28 14:12:33,417 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000210.
+2020-05-28 14:12:33,421 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000009.
+2020-05-28 14:12:33,425 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000205.
+2020-05-28 14:12:33,428 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001596.
+2020-05-28 14:12:33,431 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000006.
+2020-05-28 14:12:33,435 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002330.
+2020-05-28 14:12:33,439 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001450.
+2020-05-28 14:12:33,443 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000003.
+2020-05-28 14:12:33,447 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001365.
+2020-05-28 14:12:33,450 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002543.
+2020-05-28 14:12:33,454 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001439.
+2020-05-28 14:12:33,457 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002366.
+2020-05-28 14:12:33,461 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002724.
+2020-05-28 14:12:33,465 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002033.
+2020-05-28 14:12:33,468 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002419.
+2020-05-28 14:12:33,472 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001653.
+2020-05-28 14:12:33,475 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001618.
+2020-05-28 14:12:33,479 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000157.
+2020-05-28 14:12:33,482 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000222.
+2020-05-28 14:12:33,486 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000233.
+2020-05-28 14:12:33,489 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000240.
+2020-05-28 14:12:33,493 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002338.
+2020-05-28 14:12:33,496 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000117.
+2020-05-28 14:12:33,499 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000218.
+2020-05-28 14:12:33,503 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002181.
+2020-05-28 14:12:33,506 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000121.
+2020-05-28 14:12:33,510 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001502.
+2020-05-28 14:12:33,513 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001895.
+2020-05-28 14:12:33,515 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001544.
+2020-05-28 14:12:33,519 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000115.
+2020-05-28 14:12:33,522 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000110.
+2020-05-28 14:12:33,526 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002723.
+2020-05-28 14:12:33,529 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002725.
+2020-05-28 14:12:33,532 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002718.
+2020-05-28 14:12:33,535 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002749.
+2020-05-28 14:12:33,539 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002080.
+2020-05-28 14:12:33,542 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001603.
+2020-05-28 14:12:33,546 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001233.
+2020-05-28 14:12:33,552 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001107.
+2020-05-28 14:12:33,555 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001306.
+2020-05-28 14:12:33,559 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002683.
+2020-05-28 14:12:33,562 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001722.
+2020-05-28 14:12:33,565 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002653.
+2020-05-28 14:12:33,568 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001890.
+2020-05-28 14:12:33,571 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001597.
+2020-05-28 14:12:33,575 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001354.
+2020-05-28 14:12:33,578 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002334.
+2020-05-28 14:12:33,582 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000108.
+2020-05-28 14:12:33,585 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000217.
+2020-05-28 14:12:33,588 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000170.
+2020-05-28 14:12:33,592 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000101.
+2020-05-28 14:12:33,595 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000144.
+2020-05-28 14:12:33,599 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002720.
+2020-05-28 14:12:33,602 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000249.
+2020-05-28 14:12:33,605 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001344.
+2020-05-28 14:12:33,609 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000212.
+2020-05-28 14:12:33,612 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001740.
+2020-05-28 14:12:33,616 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002728.
+2020-05-28 14:12:33,620 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000243.
+2020-05-28 14:12:33,623 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001168.
+2020-05-28 14:12:33,626 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002276.
+2020-05-28 14:12:33,630 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000247.
+2020-05-28 14:12:33,633 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001746.
+2020-05-28 14:12:33,636 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001883.
+2020-05-28 14:12:33,640 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000017.
+2020-05-28 14:12:33,643 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002242.
+2020-05-28 14:12:33,646 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001165.
+2020-05-28 14:12:33,649 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001110.
+2020-05-28 14:12:33,652 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001734.
+2020-05-28 14:12:33,656 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001241.
+2020-05-28 14:12:33,659 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001499.
+2020-05-28 14:12:33,663 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001553.
+2020-05-28 14:12:33,666 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001652.
+2020-05-28 14:12:33,669 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001645.
+2020-05-28 14:12:33,673 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001670.
+2020-05-28 14:12:33,676 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000002.
+2020-05-28 14:12:33,680 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002034.
+2020-05-28 14:12:33,683 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000148.
+2020-05-28 14:12:33,687 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000254.
+2020-05-28 14:12:33,690 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001408.
+2020-05-28 14:12:33,694 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001569.
+2020-05-28 14:12:33,697 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000235.
+2020-05-28 14:12:33,700 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001399.
+2020-05-28 14:12:33,704 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002687.
+2020-05-28 14:12:33,707 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001461.
+2020-05-28 14:12:33,711 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001529.
+2020-05-28 14:12:33,714 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000174.
+2020-05-28 14:12:33,718 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001338.
+2020-05-28 14:12:33,721 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001555.
+2020-05-28 14:12:33,725 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001650.
+2020-05-28 14:12:33,729 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001631.
+2020-05-28 14:12:33,732 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001534.
+2020-05-28 14:12:33,738 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002236.
+2020-05-28 14:12:33,742 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001299.
+2020-05-28 14:12:33,745 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000234.
+2020-05-28 14:12:33,748 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000253.
+2020-05-28 14:12:33,751 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001750.
+2020-05-28 14:12:33,755 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001966.
+2020-05-28 14:12:33,759 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001976.
+2020-05-28 14:12:33,763 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000140.
+2020-05-28 14:12:33,765 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002068.
+2020-05-28 14:12:33,769 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000116.
+2020-05-28 14:12:33,772 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000005.
+2020-05-28 14:12:33,776 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000008.
+2020-05-28 14:12:33,780 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002711.
+2020-05-28 14:12:33,784 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001545.
+2020-05-28 14:12:33,788 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002732.
+2020-05-28 14:12:33,792 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001131.
+2020-05-28 14:12:33,795 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002411.
+2020-05-28 14:12:33,799 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000203.
+2020-05-28 14:12:33,802 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002691.
+2020-05-28 14:12:33,805 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000236.
+2020-05-28 14:12:33,809 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001748.
+2020-05-28 14:13:04,119 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-05-28 14:13:04,119 INFO NIDM file already exists for dataset: ds001720
+2020-05-28 14:13:04,123 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001771.
+2020-05-28 14:13:04,123 INFO NIDM file already exists for dataset: ds000114
+2020-05-28 14:13:04,127 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-05-28 14:13:04,130 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001541.
+2020-05-28 14:13:04,134 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-05-28 14:13:04,134 INFO NIDM file already exists for dataset: ds000224
+2020-05-28 14:13:04,137 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001178.
+2020-05-28 14:13:04,138 INFO NIDM file already exists for dataset: ds000120
+2020-05-28 14:13:04,138 INFO NIDM file already exists for dataset: ds000113
+2020-05-28 14:13:04,141 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002041.
+2020-05-28 14:13:04,145 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002006.
+2020-05-28 14:13:04,145 INFO NIDM file already exists for dataset: ds001419
+2020-05-28 14:13:04,148 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001353.
+2020-05-28 14:13:04,148 INFO NIDM file already exists for dataset: ds000168
+2020-05-28 14:13:04,165 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000030.
+2020-05-28 14:13:04,165 INFO NIDM file already exists for dataset: ds001430
+2020-05-28 14:13:04,169 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002185.
+2020-05-28 14:13:04,173 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001608.
+2020-05-28 14:13:04,176 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001882.
+2020-05-28 14:13:04,176 INFO NIDM file already exists for dataset: ds000245
+2020-05-28 14:13:04,180 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002336.
+2020-05-28 14:13:04,184 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001868.
+2020-05-28 14:13:04,184 INFO NIDM file already exists for dataset: ds000246
+2020-05-28 14:13:04,184 INFO NIDM file already exists for dataset: ds001232
+2020-05-28 14:13:04,184 INFO NIDM file already exists for dataset: ds001226
+2020-05-28 14:13:04,188 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001908.
+2020-05-28 14:13:04,191 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002301.
+2020-05-28 14:13:04,195 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000172.
+2020-05-28 14:13:04,198 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001942.
+2020-05-28 14:13:04,202 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002013.
+2020-05-28 14:13:04,206 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002154.
+2020-05-28 14:13:04,210 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002270.
+2020-05-28 14:13:04,213 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002722.
+2020-05-28 14:13:04,217 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001784.
+2020-05-28 14:13:04,221 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001554.
+2020-05-28 14:13:04,224 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001743.
+2020-05-28 14:13:04,228 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002750.
+2020-05-28 14:13:04,231 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002011.
+2020-05-28 14:13:04,234 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001493.
+2020-05-28 14:13:04,237 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002000.
+2020-05-28 14:13:04,241 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001971.
+2020-05-28 14:13:04,241 INFO NIDM file already exists for dataset: ds001242
+2020-05-28 14:13:04,241 INFO NIDM file already exists for dataset: ds000221
+2020-05-28 14:13:04,241 INFO NIDM file already exists for dataset: ds000138
+2020-05-28 14:13:04,241 INFO NIDM file already exists for dataset: ds000220
+2020-05-28 14:13:04,245 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002522.
+2020-05-28 14:13:04,248 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001761.
+2020-05-28 14:13:04,252 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002250.
+2020-05-28 14:13:04,252 INFO NIDM file already exists for dataset: ds000214
+2020-05-28 14:13:04,252 INFO NIDM file already exists for dataset: ds000208
+2020-05-28 14:13:04,256 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000122.
+2020-05-28 14:13:04,256 INFO NIDM file already exists for dataset: ds001229
+2020-05-28 14:13:04,256 INFO NIDM file already exists for dataset: ds000171
+2020-05-28 14:13:04,256 INFO NIDM file already exists for dataset: ds000238
+2020-05-28 14:13:04,256 INFO NIDM file already exists for dataset: ds001510
+2020-05-28 14:13:04,259 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001810.
+2020-05-28 14:13:04,262 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-05-28 14:13:04,265 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000102.
+2020-05-28 14:13:04,265 INFO NIDM file already exists for dataset: ds001486
+2020-05-28 14:13:04,269 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002363.
+2020-05-28 14:13:04,272 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001725.
+2020-05-28 14:13:04,276 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-05-28 14:13:04,279 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000011.
+2020-05-28 14:13:04,282 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001566.
+2020-05-28 14:13:04,286 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000053.
+2020-05-28 14:13:04,289 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001840.
+2020-05-28 14:13:04,293 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000231.
+2020-05-28 14:13:04,296 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001378.
+2020-05-28 14:13:04,300 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000001.
+2020-05-28 14:13:04,303 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001934.
+2020-05-28 14:13:04,307 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001928.
+2020-05-28 14:13:04,311 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001454.
+2020-05-28 14:13:04,314 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000213.
+2020-05-28 14:13:04,318 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001417.
+2020-05-28 14:13:04,321 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000244.
+2020-05-28 14:13:04,325 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001511.
+2020-05-28 14:13:04,328 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001491.
+2020-05-28 14:13:04,332 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000219.
+2020-05-28 14:13:04,335 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000200.
+2020-05-28 14:13:04,339 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002393.
+2020-05-28 14:13:04,343 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001386.
+2020-05-28 14:13:04,347 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001460.
+2020-05-28 14:13:04,350 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001228.
+2020-05-28 14:13:04,354 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001531.
+2020-05-28 14:13:04,358 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000256.
+2020-05-28 14:13:04,361 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002702.
+2020-05-28 14:13:04,365 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000007.
+2020-05-28 14:13:04,368 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002685.
+2020-05-28 14:13:04,371 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002680.
+2020-05-28 14:13:04,375 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002345.
+2020-05-28 14:13:04,378 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001927.
+2020-05-28 14:13:04,382 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000201.
+2020-05-28 14:13:04,384 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001985.
+2020-05-28 14:13:04,387 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002322.
+2020-05-28 14:13:04,391 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001345.
+2020-05-28 14:13:04,393 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002337.
+2020-05-28 14:13:04,396 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002655.
+2020-05-28 14:13:04,400 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001482.
+2020-05-28 14:13:04,403 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002717.
+2020-05-28 14:13:04,406 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002572.
+2020-05-28 14:13:04,409 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001517.
+2020-05-28 14:13:04,413 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001919.
+2020-05-28 14:13:04,417 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001981.
+2020-05-28 14:13:04,420 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001547.
+2020-05-28 14:13:04,424 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001525.
+2020-05-28 14:13:04,427 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000202.
+2020-05-28 14:13:04,431 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002152.
+2020-05-28 14:13:04,435 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000133.
+2020-05-28 14:13:04,438 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000119.
+2020-05-28 14:13:04,441 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000229.
+2020-05-28 14:13:04,451 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001894.
+2020-05-28 14:13:04,455 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001021.
+2020-05-28 14:13:04,458 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001297.
+2020-05-28 14:13:04,462 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002712.
+2020-05-28 14:13:04,465 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000239.
+2020-05-28 14:13:04,468 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000210.
+2020-05-28 14:13:04,472 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000009.
+2020-05-28 14:13:04,475 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000205.
+2020-05-28 14:13:04,478 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001596.
+2020-05-28 14:13:04,482 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000006.
+2020-05-28 14:13:04,486 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002330.
+2020-05-28 14:13:04,489 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001450.
+2020-05-28 14:13:04,494 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000003.
+2020-05-28 14:13:04,497 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001365.
+2020-05-28 14:13:04,501 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002543.
+2020-05-28 14:13:04,504 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001439.
+2020-05-28 14:13:04,508 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002366.
+2020-05-28 14:13:04,511 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002724.
+2020-05-28 14:13:04,514 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002033.
+2020-05-28 14:13:04,518 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002419.
+2020-05-28 14:13:04,521 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001653.
+2020-05-28 14:13:04,525 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001618.
+2020-05-28 14:13:04,528 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000157.
+2020-05-28 14:13:04,532 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000222.
+2020-05-28 14:13:04,535 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000233.
+2020-05-28 14:13:04,539 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000240.
+2020-05-28 14:13:04,542 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002338.
+2020-05-28 14:13:04,546 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000117.
+2020-05-28 14:13:04,549 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000218.
+2020-05-28 14:13:04,553 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002181.
+2020-05-28 14:13:04,556 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000121.
+2020-05-28 14:13:04,560 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001502.
+2020-05-28 14:13:04,563 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001895.
+2020-05-28 14:13:04,565 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001544.
+2020-05-28 14:13:04,569 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000115.
+2020-05-28 14:13:04,572 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000110.
+2020-05-28 14:13:04,575 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002723.
+2020-05-28 14:13:04,579 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002725.
+2020-05-28 14:13:04,582 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002718.
+2020-05-28 14:13:04,585 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002749.
+2020-05-28 14:13:04,589 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002080.
+2020-05-28 14:13:04,592 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001603.
+2020-05-28 14:13:04,596 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001233.
+2020-05-28 14:13:04,601 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001107.
+2020-05-28 14:13:04,604 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001306.
+2020-05-28 14:13:04,608 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002683.
+2020-05-28 14:13:04,611 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001722.
+2020-05-28 14:13:04,614 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002653.
+2020-05-28 14:13:04,617 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001890.
+2020-05-28 14:13:04,620 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001597.
+2020-05-28 14:13:04,624 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001354.
+2020-05-28 14:13:04,627 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002334.
+2020-05-28 14:13:04,631 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000108.
+2020-05-28 14:13:04,634 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000217.
+2020-05-28 14:13:04,638 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000170.
+2020-05-28 14:13:04,641 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000101.
+2020-05-28 14:13:04,645 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000144.
+2020-05-28 14:13:04,648 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002720.
+2020-05-28 14:13:04,652 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000249.
+2020-05-28 14:13:04,655 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001344.
+2020-05-28 14:13:04,658 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000212.
+2020-05-28 14:13:04,662 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001740.
+2020-05-28 14:13:04,665 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002728.
+2020-05-28 14:13:04,669 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000243.
+2020-05-28 14:13:04,672 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001168.
+2020-05-28 14:13:04,675 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002276.
+2020-05-28 14:13:04,679 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000247.
+2020-05-28 14:13:04,682 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001746.
+2020-05-28 14:13:04,686 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001883.
+2020-05-28 14:13:04,689 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000017.
+2020-05-28 14:13:04,693 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002242.
+2020-05-28 14:13:04,695 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001165.
+2020-05-28 14:13:04,699 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001110.
+2020-05-28 14:13:04,702 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001734.
+2020-05-28 14:13:04,706 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001241.
+2020-05-28 14:13:04,710 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001499.
+2020-05-28 14:13:04,713 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001553.
+2020-05-28 14:13:04,717 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001652.
+2020-05-28 14:13:04,721 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001645.
+2020-05-28 14:13:04,724 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001670.
+2020-05-28 14:13:04,728 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000002.
+2020-05-28 14:13:04,731 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002034.
+2020-05-28 14:13:04,735 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000148.
+2020-05-28 14:13:04,738 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000254.
+2020-05-28 14:13:04,742 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001408.
+2020-05-28 14:13:04,745 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001569.
+2020-05-28 14:13:04,748 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000235.
+2020-05-28 14:13:04,752 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001399.
+2020-05-28 14:13:04,755 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002687.
+2020-05-28 14:13:04,759 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001461.
+2020-05-28 14:13:04,762 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001529.
+2020-05-28 14:13:04,766 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000174.
+2020-05-28 14:13:04,777 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001338.
+2020-05-28 14:13:04,780 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001555.
+2020-05-28 14:13:04,783 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001650.
+2020-05-28 14:13:04,786 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001631.
+2020-05-28 14:13:04,790 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001534.
+2020-05-28 14:13:04,796 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002236.
+2020-05-28 14:13:04,800 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001299.
+2020-05-28 14:13:04,804 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000234.
+2020-05-28 14:13:04,807 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000253.
+2020-05-28 14:13:04,810 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001750.
+2020-05-28 14:13:04,813 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001966.
+2020-05-28 14:13:04,816 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001976.
+2020-05-28 14:13:04,820 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000140.
+2020-05-28 14:13:04,822 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002068.
+2020-05-28 14:13:04,826 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000116.
+2020-05-28 14:13:04,830 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000005.
+2020-05-28 14:13:04,834 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000008.
+2020-05-28 14:13:04,838 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002711.
+2020-05-28 14:13:04,841 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001545.
+2020-05-28 14:13:04,845 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002732.
+2020-05-28 14:13:04,848 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001131.
+2020-05-28 14:13:04,852 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002411.
+2020-05-28 14:13:04,856 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000203.
+2020-05-28 14:13:04,860 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002691.
+2020-05-28 14:13:04,864 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000236.
+2020-05-28 14:13:04,867 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001748.
