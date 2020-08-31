@@ -1175,3 +1175,543 @@
 2020-06-01 13:46:53,026 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001810
 2020-06-01 13:46:53,026 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001810/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001810/participants.json
 2020-06-01 13:46:53,068 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001810 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001810/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:22:02,491 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001810.
+2020-06-01 15:22:02,533 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-06-01 15:22:05,385 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000102
+2020-06-01 15:22:05,386 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000102/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000102/participants.json
+2020-06-01 15:22:05,490 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000102 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000102/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:26:24,170 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000102.
+2020-06-01 15:26:24,172 INFO NIDM file already exists for dataset: ds001486
+2020-06-01 15:26:27,802 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002363.
+2020-06-01 15:26:31,843 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001725
+2020-06-01 15:26:31,843 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001725/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001725/participants.json
+2020-06-01 15:26:31,908 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001725 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001725/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:34:20,452 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001725.
+2020-06-01 15:34:20,492 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-06-01 15:34:22,991 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000011
+2020-06-01 15:34:22,992 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000011/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000011/participants.json
+2020-06-01 15:34:23,009 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000011 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000011/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:37:19,263 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000011.
+2020-06-01 15:37:20,246 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001566
+2020-06-01 15:37:20,247 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001566/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001566/participants.json
+2020-06-01 15:37:20,279 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001566 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001566/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:37:41,640 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001566.
+2020-06-01 15:52:44,891 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000053.
+2020-06-01 15:52:49,264 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001840
+2020-06-01 15:52:49,264 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001840/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001840/participants.json
+2020-06-01 15:52:49,276 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001840 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001840/nidm.ttl -bidsignore -no_concepts
+2020-06-01 15:59:14,465 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001840.
+2020-06-01 16:05:13,496 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000231.
+2020-06-01 16:05:16,689 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001378
+2020-06-01 16:05:16,689 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001378/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001378/participants.json
+2020-06-01 16:05:16,705 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001378 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001378/nidm.ttl -bidsignore -no_concepts
+2020-06-01 16:05:44,780 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001378.
+2020-06-01 16:05:47,881 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000001
+2020-06-01 16:05:47,882 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000001/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000001/participants.json
+2020-06-01 16:05:47,900 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000001 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000001/nidm.ttl -bidsignore -no_concepts
+2020-06-01 16:08:11,598 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000001.
+2020-06-01 16:08:11,629 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001934.
+2020-06-01 16:08:18,179 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001928
+2020-06-01 16:08:18,179 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001928/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001928/participants.json
+2020-06-01 16:08:18,225 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001928 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001928/nidm.ttl -bidsignore -no_concepts
+2020-06-01 16:23:31,201 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001928.
+2020-06-01 16:24:36,673 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001454.
+2020-06-01 16:30:56,801 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000213.
+2020-06-01 16:30:56,802 INFO NIDM file already exists for dataset: ds001417
+2020-06-01 16:44:34,613 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000244.
+2020-06-01 16:44:45,758 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001511.
+2020-06-01 16:55:25,530 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001491.
+2020-06-01 17:02:14,981 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000219.
+2020-06-01 17:07:57,834 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000200.
+2020-06-01 17:08:08,293 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002393.
+2020-06-01 17:08:10,911 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001386
+2020-06-01 17:08:10,912 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001386/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001386/participants.json
+2020-06-01 17:08:10,970 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001386 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001386/nidm.ttl -bidsignore -no_concepts
+2020-06-01 17:14:13,047 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001386.
+2020-06-01 17:14:15,138 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001460.
+2020-06-01 17:21:32,409 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001228.
+2020-06-01 17:21:40,980 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001531
+2020-06-01 17:21:40,980 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001531/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001531/participants.json
+2020-06-01 17:21:41,006 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001531 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001531/nidm.ttl -bidsignore -no_concepts
+2020-06-01 17:41:35,828 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001531.
+2020-06-01 17:51:44,925 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000256.
+2020-06-01 17:51:44,946 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002702.
+2020-06-01 17:58:55,612 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000007.
+2020-06-01 17:58:55,639 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002685.
+2020-06-01 17:58:55,658 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002680.
+2020-06-01 17:59:35,379 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002345.
+2020-06-01 17:59:44,431 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001927.
+2020-06-01 18:03:32,378 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000201.
+2020-06-01 18:03:32,397 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001985.
+2020-06-01 18:03:37,047 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002322.
+2020-06-01 18:03:39,573 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001345
+2020-06-01 18:03:39,574 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001345/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001345/participants.json
+2020-06-01 18:03:39,614 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001345 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001345/nidm.ttl -bidsignore -no_concepts
+2020-06-01 18:05:22,095 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001345.
+2020-06-01 18:05:22,118 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002337.
+2020-06-01 18:05:22,146 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002655.
+2020-06-01 18:05:24,453 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001482
+2020-06-01 18:05:24,454 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001482/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001482/participants.json
+2020-06-01 18:05:24,488 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001482 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001482/nidm.ttl -bidsignore -no_concepts
+2020-06-01 18:09:40,387 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001482.
+2020-06-01 18:09:40,413 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002717.
+2020-06-01 18:09:40,446 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002572.
+2020-06-01 18:10:01,967 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001517.
+2020-06-01 18:10:46,341 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001919.
+2020-06-01 18:10:57,652 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001981
+2020-06-01 18:10:57,652 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001981/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001981/participants.json
+2020-06-01 18:10:57,695 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001981 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001981/nidm.ttl -bidsignore -no_concepts
+2020-06-01 18:47:13,919 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001981.
+2020-06-01 18:47:15,702 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001547
+2020-06-01 18:47:15,702 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001547/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001547/participants.json
+2020-06-01 18:47:15,731 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001547 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001547/nidm.ttl -bidsignore -no_concepts
+2020-06-01 18:48:13,187 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001547.
+2020-06-01 18:48:24,003 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001525.
+2020-06-01 18:54:38,072 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000202.
+2020-06-01 18:54:54,197 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002152.
+2020-06-01 19:03:55,926 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000133.
+2020-06-01 19:13:01,168 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000119.
+2020-06-01 19:19:28,373 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000229.
+2020-06-01 19:20:58,634 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001894
+2020-06-01 19:20:58,634 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/participants.json
+2020-06-01 19:20:58,683 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/adhd-rs.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/adhd-rs.json
+2020-06-01 19:20:58,707 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/dev_hist_questionnaire.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/dev_hist_questionnaire.json
+2020-06-01 19:20:58,766 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/towre.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/towre.json
+2020-06-01 19:20:58,796 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/wj-iii.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/wj-iii.json
+2020-06-01 19:20:58,802 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/wasi.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/wasi.json
+2020-06-01 19:20:58,808 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T1/ctopp.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T1/ctopp.json
+2020-06-01 19:20:58,813 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T2/towre.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T2/towre.json
+2020-06-01 19:20:58,838 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T2/wj-iii.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T2/wj-iii.json
+2020-06-01 19:20:58,846 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T2/wasi.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T2/wasi.json
+2020-06-01 19:20:58,852 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001894/phenotype/ses-T2/ctopp.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001894/phenotype/ses-T2/ctopp.json
+2020-06-01 19:20:58,858 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001894 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001894/nidm.ttl -bidsignore -no_concepts
+2020-06-02 13:09:20,990 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001894.
+2020-06-02 13:09:22,505 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001021
+2020-06-02 13:09:22,505 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001021/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001021/participants.json
+2020-06-02 13:09:22,583 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001021 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001021/nidm.ttl -bidsignore -no_concepts
+2020-06-02 13:09:53,668 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001021.
+2020-06-02 13:19:36,778 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001297.
+2020-06-02 13:19:36,786 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002712.
+2020-06-02 13:26:05,383 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000239.
+2020-06-02 13:39:45,815 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000210.
+2020-06-02 13:49:22,529 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000009.
+2020-06-02 13:55:38,244 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000205.
+2020-06-02 13:55:44,012 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001596.
+2020-06-02 14:03:19,270 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000006.
+2020-06-02 14:03:38,030 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002330.
+2020-06-02 14:03:39,795 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001450
+2020-06-02 14:03:39,795 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001450/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001450/participants.json
+2020-06-02 14:03:39,838 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001450 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001450/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:04:59,344 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001450.
+2020-06-02 14:05:03,586 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000003
+2020-06-02 14:05:03,586 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000003/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000003/participants.json
+2020-06-02 14:05:03,622 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000003 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000003/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:06:42,953 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000003.
+2020-06-02 14:06:46,069 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001365
+2020-06-02 14:06:46,069 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001365/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001365/participants.json
+2020-06-02 14:06:46,099 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001365 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001365/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:09:19,753 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001365.
+2020-06-02 14:09:19,772 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002543.
+2020-06-02 14:09:26,979 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001439
+2020-06-02 14:09:26,980 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001439/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001439/participants.json
+2020-06-02 14:09:27,194 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001439 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001439/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:19:23,958 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001439.
+2020-06-02 14:19:35,122 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002366
+2020-06-02 14:19:35,123 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002366/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002366/participants.json
+2020-06-02 14:19:35,177 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002366 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002366/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:20:43,120 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002366.
+2020-06-02 14:20:43,140 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002724.
+2020-06-02 14:20:53,736 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002033
+2020-06-02 14:20:53,736 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002033/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002033/participants.json
+2020-06-02 14:20:53,778 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002033 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002033/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:37:53,554 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002033.
+2020-06-02 14:37:53,718 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002419.
+2020-06-02 14:38:10,618 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001653
+2020-06-02 14:38:10,618 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001653/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001653/participants.json
+2020-06-02 14:38:10,654 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001653 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001653/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:54:00,649 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001653.
+2020-06-02 14:54:03,296 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001618
+2020-06-02 14:54:03,297 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001618/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001618/participants.json
+2020-06-02 14:54:03,361 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001618 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001618/nidm.ttl -bidsignore -no_concepts
+2020-06-02 14:58:51,139 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001618.
+2020-06-02 15:05:23,332 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000157.
+2020-06-02 15:12:18,460 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000222.
+2020-06-02 15:21:02,650 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000233.
+2020-06-02 15:27:34,784 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000240.
+2020-06-02 15:27:44,587 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002338
+2020-06-02 15:27:44,587 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002338/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002338/participants.json
+2020-06-02 15:27:44,661 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002338 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002338/nidm.ttl -bidsignore -no_concepts
+2020-06-02 15:47:41,604 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002338.
+2020-06-02 16:10:39,436 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000117.
+2020-06-02 16:17:33,200 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000218.
+2020-06-02 16:17:48,545 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002181.
+2020-06-02 16:25:06,476 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000121.
+2020-06-02 16:25:11,790 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001502.
+2020-06-02 16:25:14,320 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001895.
+2020-06-02 16:25:14,387 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001544.
+2020-06-02 16:34:23,373 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000115.
+2020-06-02 16:42:10,897 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000110.
+2020-06-02 16:42:10,955 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002723.
+2020-06-02 16:42:10,977 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002725.
+2020-06-02 16:42:10,988 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002718.
+2020-06-02 16:42:11,079 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002749.
+2020-06-02 16:42:16,695 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002080.
+2020-06-02 16:52:29,385 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001603.
+2020-06-02 17:00:51,050 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001233.
+2020-06-02 17:00:51,101 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001107.
+2020-06-02 17:00:55,151 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001306
+2020-06-02 17:00:55,151 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001306/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001306/participants.json
+2020-06-02 17:00:55,210 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001306 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001306/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:05:18,516 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001306.
+2020-06-02 17:05:18,540 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002683.
+2020-06-02 17:05:21,858 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001722
+2020-06-02 17:05:21,859 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001722/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001722/participants.json
+2020-06-02 17:05:21,905 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001722 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001722/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:05:48,992 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001722.
+2020-06-02 17:05:49,023 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002653.
+2020-06-02 17:05:54,132 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001890
+2020-06-02 17:05:54,132 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001890/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001890/participants.json
+2020-06-02 17:05:54,154 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001890 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001890/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:13:05,579 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001890.
+2020-06-02 17:13:26,259 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001597.
+2020-06-02 17:13:28,646 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001354
+2020-06-02 17:13:28,646 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001354/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001354/participants.json
+2020-06-02 17:13:28,727 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001354 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001354/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:17:25,030 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001354.
+2020-06-02 17:17:28,223 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002334.
+2020-06-02 17:25:17,232 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000108.
+2020-06-02 17:25:17,240 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000217.
+2020-06-02 17:32:42,029 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000170.
+2020-06-02 17:32:45,421 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000101
+2020-06-02 17:32:45,421 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000101/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000101/participants.json
+2020-06-02 17:32:45,475 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000101 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000101/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:36:04,781 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000101.
+2020-06-02 17:42:45,338 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000144.
+2020-06-02 17:42:45,345 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002720.
+2020-06-02 17:53:06,832 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000249.
+2020-06-02 17:53:10,750 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001344
+2020-06-02 17:53:10,750 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001344/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001344/participants.json
+2020-06-02 17:53:10,774 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001344 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001344/nidm.ttl -bidsignore -no_concepts
+2020-06-02 17:56:04,035 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001344.
+2020-06-02 18:07:51,008 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000212.
+2020-06-02 18:08:22,753 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001740
+2020-06-02 18:08:22,753 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001740/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001740/participants.json
+2020-06-02 18:08:22,770 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001740 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001740/nidm.ttl -bidsignore -no_concepts
+2020-06-02 19:28:09,006 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001740.
+2020-06-02 19:28:09,050 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002728.
+2020-06-02 19:39:22,205 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000243.
+2020-06-02 19:49:59,071 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001168.
+2020-06-02 19:50:35,529 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002276.
+2020-06-02 19:58:08,592 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000247.
+2020-06-02 19:58:15,278 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001746
+2020-06-02 19:58:15,278 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001746/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001746/participants.json
+2020-06-02 19:58:15,327 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001746 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001746/nidm.ttl -bidsignore -no_concepts
+2020-06-02 20:17:11,456 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001746.
+2020-06-02 20:17:14,123 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001883
+2020-06-02 20:17:14,123 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001883/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001883/participants.json
+2020-06-02 20:17:14,156 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001883 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001883/nidm.ttl -bidsignore -no_concepts
+2020-06-02 20:23:04,223 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001883.
+2020-06-02 20:23:10,143 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000017
+2020-06-02 20:23:10,144 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000017/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000017/participants.json
+2020-06-02 20:23:10,199 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000017 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000017/nidm.ttl -bidsignore -no_concepts
+2020-06-02 20:25:42,124 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000017.
+2020-06-02 20:25:48,522 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002242
+2020-06-02 20:25:48,523 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002242/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002242/participants.json
+2020-06-02 20:25:48,539 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002242 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002242/nidm.ttl -bidsignore -no_concepts
+2020-06-02 20:44:09,726 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002242.
+2020-06-02 20:44:09,739 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001165.
+2020-06-02 20:44:10,884 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001110
+2020-06-02 20:44:10,884 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001110/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001110/participants.json
+2020-06-02 20:44:10,924 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001110 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001110/nidm.ttl -bidsignore -no_concepts
+2020-06-02 20:44:50,105 INFO Running datalad uninstall command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001110
+2020-06-03 19:34:11,597 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001734.
+2020-06-03 19:46:34,753 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001241.
+2020-06-03 23:09:31,110 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001499.
+2020-06-03 23:21:13,000 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001553.
+2020-06-03 23:27:54,034 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001652.
+2020-06-03 23:27:58,726 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001645.
+2020-06-03 23:28:01,590 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001670.
+2020-06-03 23:38:19,776 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000002.
+2020-06-04 00:05:10,401 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002034.
+2020-06-04 00:13:10,301 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000148.
+2020-06-04 00:24:53,170 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000254.
+2020-06-04 00:32:28,649 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001408.
+2020-06-04 00:32:35,432 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001569.
+2020-06-04 00:38:11,610 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000235.
+2020-06-04 00:57:03,621 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001399.
+2020-06-04 00:57:03,770 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002687.
+2020-06-04 00:57:16,029 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001461.
+2020-06-04 00:57:22,422 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001529.
+2020-06-04 01:03:53,385 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000174.
+2020-06-04 01:34:54,298 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001338.
+2020-06-04 01:43:35,790 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001555.
+2020-06-04 01:43:35,854 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001650.
+2020-06-04 01:44:36,537 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001631.
+2020-06-04 02:08:30,768 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001534.
+2020-06-04 04:22:14,328 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002236.
+2020-06-04 05:22:44,407 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001299.
+2020-06-04 05:28:28,295 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000234.
+2020-06-04 05:36:10,660 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000253.
+2020-06-04 05:36:10,795 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001750.
+2020-06-04 05:43:11,997 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001966.
+2020-06-04 05:44:04,248 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001976.
+2020-06-04 08:31:25,100 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002551.
+2020-06-04 08:31:25,101 INFO NIDM file already exists for dataset: ds001720
+2020-06-04 08:31:25,101 INFO NIDM file already exists for dataset: ds001771
+2020-06-04 08:31:25,101 INFO NIDM file already exists for dataset: ds000114
+2020-06-04 08:31:25,109 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002578.
+2020-06-04 08:31:25,109 INFO NIDM file already exists for dataset: ds001541
+2020-06-04 08:31:25,116 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002547.
+2020-06-04 08:31:25,116 INFO NIDM file already exists for dataset: ds000224
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds001178
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds000120
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds000113
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds002041
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds002006
+2020-06-04 08:31:25,117 INFO NIDM file already exists for dataset: ds001419
+2020-06-04 08:31:32,409 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001353.
+2020-06-04 08:31:32,410 INFO NIDM file already exists for dataset: ds000168
+2020-06-04 09:05:42,369 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000030.
+2020-06-04 09:05:42,372 INFO NIDM file already exists for dataset: ds001430
+2020-06-04 09:05:47,328 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002185.
+2020-06-04 09:05:47,328 INFO NIDM file already exists for dataset: ds001608
+2020-06-04 09:05:47,329 INFO NIDM file already exists for dataset: ds001882
+2020-06-04 09:05:47,329 INFO NIDM file already exists for dataset: ds000245
+2020-06-04 09:05:54,701 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002336
+2020-06-04 09:05:54,701 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002336/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002336/participants.json
+2020-06-04 09:05:54,745 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002336 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002336/nidm.ttl -bidsignore -no_concepts
+2020-06-04 09:28:03,065 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002336.
+2020-06-04 09:28:05,381 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001868.
+2020-06-04 09:28:05,382 INFO NIDM file already exists for dataset: ds000246
+2020-06-04 09:28:05,382 INFO NIDM file already exists for dataset: ds001232
+2020-06-04 09:28:05,382 INFO NIDM file already exists for dataset: ds001226
+2020-06-04 09:28:08,999 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001908.
+2020-06-04 09:28:38,241 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002301.
+2020-06-04 09:35:24,176 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000172.
+2020-06-04 09:35:24,176 INFO NIDM file already exists for dataset: ds001942
+2020-06-04 09:42:43,703 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002013.
+2020-06-04 09:42:43,704 INFO NIDM file already exists for dataset: ds002154
+2020-06-04 09:42:43,704 INFO NIDM file already exists for dataset: ds002270
+2020-06-04 09:42:43,735 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002722.
+2020-06-04 09:42:43,735 INFO NIDM file already exists for dataset: ds001784
+2020-06-04 09:42:43,735 INFO NIDM file already exists for dataset: ds001554
+2020-06-04 09:42:43,736 INFO NIDM file already exists for dataset: ds001743
+2020-06-04 09:42:43,761 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002750.
+2020-06-04 09:42:43,761 INFO NIDM file already exists for dataset: ds002011
+2020-06-04 09:42:43,765 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001493.
+2020-06-04 09:42:43,765 INFO NIDM file already exists for dataset: ds002000
+2020-06-04 09:42:43,766 INFO NIDM file already exists for dataset: ds001971
+2020-06-04 09:42:43,766 INFO NIDM file already exists for dataset: ds001242
+2020-06-04 09:42:43,766 INFO NIDM file already exists for dataset: ds000221
+2020-06-04 09:42:43,766 INFO NIDM file already exists for dataset: ds000138
+2020-06-04 09:42:43,766 INFO NIDM file already exists for dataset: ds000220
+2020-06-04 09:42:43,771 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002522.
+2020-06-04 09:49:08,094 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001761.
+2020-06-04 09:49:08,094 INFO NIDM file already exists for dataset: ds002250
+2020-06-04 09:49:08,094 INFO NIDM file already exists for dataset: ds000214
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds000208
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds000122
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds001229
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds000171
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds000238
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds001510
+2020-06-04 09:49:08,095 INFO NIDM file already exists for dataset: ds001810
+2020-06-04 09:49:08,107 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001505.
+2020-06-04 09:49:08,107 INFO NIDM file already exists for dataset: ds000102
+2020-06-04 09:49:08,107 INFO NIDM file already exists for dataset: ds001486
+2020-06-04 09:49:11,987 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002363.
+2020-06-04 09:49:11,988 INFO NIDM file already exists for dataset: ds001725
+2020-06-04 09:49:11,995 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002721.
+2020-06-04 09:49:11,995 INFO NIDM file already exists for dataset: ds000011
+2020-06-04 09:49:11,995 INFO NIDM file already exists for dataset: ds001566
+2020-06-04 10:03:52,888 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000053.
+2020-06-04 10:03:52,890 INFO NIDM file already exists for dataset: ds001840
+2020-06-04 10:09:58,202 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000231.
+2020-06-04 10:10:01,406 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001378
+2020-06-04 10:10:01,406 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001378/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001378/participants.json
+2020-06-04 10:10:01,465 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001378 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001378/nidm.ttl -bidsignore -no_concepts
+2020-06-04 10:10:31,930 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001378.
+2020-06-04 10:10:31,932 INFO NIDM file already exists for dataset: ds000001
+2020-06-04 10:10:31,960 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001934.
+2020-06-04 10:10:31,961 INFO NIDM file already exists for dataset: ds001928
+2020-06-04 10:11:43,178 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001454.
+2020-06-04 10:18:11,162 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000213.
+2020-06-04 10:18:11,163 INFO NIDM file already exists for dataset: ds001417
+2020-06-04 10:32:42,482 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000244.
+2020-06-04 10:32:55,007 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001511.
+2020-06-04 10:43:31,854 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001491.
+2020-06-04 10:50:31,403 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000219.
+2020-06-04 10:56:14,143 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000200.
+2020-06-04 10:56:26,221 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002393.
+2020-06-04 10:56:26,222 INFO NIDM file already exists for dataset: ds001386
+2020-06-04 10:56:28,432 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001460.
+2020-06-04 11:03:25,287 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001228.
+2020-06-04 11:03:25,288 INFO NIDM file already exists for dataset: ds001531
+2020-06-04 11:13:27,600 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000256.
+2020-06-04 11:13:27,620 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002702.
+2020-06-04 11:20:32,257 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000007.
+2020-06-04 11:20:32,276 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002685.
+2020-06-04 11:20:32,299 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002680.
+2020-06-04 11:21:15,513 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002345.
+2020-06-04 11:21:24,774 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001927.
+2020-06-04 11:25:32,553 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000201.
+2020-06-04 11:25:32,589 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001985.
+2020-06-04 11:25:36,727 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002322.
+2020-06-04 11:25:36,727 INFO NIDM file already exists for dataset: ds001345
+2020-06-04 11:25:36,742 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002337.
+2020-06-04 11:25:36,797 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002655.
+2020-06-04 11:25:36,797 INFO NIDM file already exists for dataset: ds001482
+2020-06-04 11:25:36,812 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002717.
+2020-06-04 11:25:36,831 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002572.
+2020-06-04 11:26:01,227 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001517.
+2020-06-04 11:26:45,701 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001919.
+2020-06-04 11:26:45,703 INFO NIDM file already exists for dataset: ds001981
+2020-06-04 11:26:45,703 INFO NIDM file already exists for dataset: ds001547
+2020-06-04 11:26:58,421 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001525.
+2020-06-04 11:33:13,227 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000202.
+2020-06-04 11:33:30,786 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002152.
+2020-06-04 11:42:37,424 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000133.
+2020-06-04 11:51:44,424 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000119.
+2020-06-04 11:58:11,728 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000229.
+2020-06-04 11:58:11,729 INFO NIDM file already exists for dataset: ds001894
+2020-06-04 11:58:11,729 INFO NIDM file already exists for dataset: ds001021
+2020-06-04 12:07:51,472 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001297.
+2020-06-04 12:07:51,494 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002712.
+2020-06-04 12:14:26,904 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000239.
+2020-06-04 12:25:41,120 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000210.
+2020-06-04 12:34:46,067 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000009.
+2020-06-04 12:41:00,180 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000205.
+2020-06-04 12:41:05,729 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001596.
+2020-06-04 12:48:25,583 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000006.
+2020-06-04 12:48:42,518 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002330.
+2020-06-04 12:48:42,520 INFO NIDM file already exists for dataset: ds001450
+2020-06-04 12:48:42,520 INFO NIDM file already exists for dataset: ds000003
+2020-06-04 12:48:42,520 INFO NIDM file already exists for dataset: ds001365
+2020-06-04 12:48:42,554 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002543.
+2020-06-04 12:48:42,554 INFO NIDM file already exists for dataset: ds001439
+2020-06-04 12:48:50,252 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002366
+2020-06-04 12:48:50,253 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002366/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002366/participants.json
+2020-06-04 12:48:50,307 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002366 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002366/nidm.ttl -bidsignore -no_concepts
+2020-06-08 09:49:32,834 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002366.
+2020-06-08 09:49:32,870 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002724.
+2020-06-08 09:49:32,872 INFO NIDM file already exists for dataset: ds002033
+2020-06-08 09:49:32,905 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002419.
+2020-06-08 09:49:32,906 INFO NIDM file already exists for dataset: ds001653
+2020-06-08 09:49:32,906 INFO NIDM file already exists for dataset: ds001618
+2020-06-08 09:57:22,291 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000157.
+2020-06-08 10:05:22,304 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000222.
+2020-06-08 10:15:45,520 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000233.
+2020-06-08 10:22:54,484 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000240.
+2020-06-08 10:22:54,486 INFO NIDM file already exists for dataset: ds002338
+2020-06-08 10:47:42,720 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000117.
+2020-06-08 10:54:54,498 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000218.
+2020-06-08 10:55:10,184 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002181.
+2020-06-08 11:02:18,193 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000121.
+2020-06-08 11:02:24,292 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001502.
+2020-06-08 11:02:27,150 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001895.
+2020-06-08 11:02:27,177 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001544.
+2020-06-08 11:11:38,081 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000115.
+2020-06-08 11:19:20,953 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000110.
+2020-06-08 11:19:20,980 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002723.
+2020-06-08 11:19:21,024 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002725.
+2020-06-08 11:19:21,055 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002718.
+2020-06-08 11:19:21,068 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002749.
+2020-06-08 11:19:27,548 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002080.
+2020-06-08 11:29:47,141 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001603.
+2020-06-08 11:38:10,933 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001233.
+2020-06-08 11:38:11,025 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001107.
+2020-06-08 11:38:11,028 INFO NIDM file already exists for dataset: ds001306
+2020-06-08 11:38:11,051 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002683.
+2020-06-08 11:38:14,329 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001722
+2020-06-08 11:38:14,330 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001722/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001722/participants.json
+2020-06-08 11:38:14,409 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001722 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001722/nidm.ttl -bidsignore -no_concepts
+2020-06-08 11:39:14,946 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001722.
+2020-06-08 11:39:14,986 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002653.
+2020-06-08 11:39:14,988 INFO NIDM file already exists for dataset: ds001890
+2020-06-08 11:39:32,782 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001597.
+2020-06-08 11:39:32,784 INFO NIDM file already exists for dataset: ds001354
+2020-06-08 11:39:36,125 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002334.
+2020-06-08 11:47:25,912 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000108.
+2020-06-08 11:47:25,969 ERROR Datalad returned error: <class 'ValueError'> for dataset ds000217.
+2020-06-08 11:54:55,098 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000170.
+2020-06-08 11:54:55,102 INFO NIDM file already exists for dataset: ds000101
+2020-06-08 12:01:25,857 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000144.
+2020-06-08 12:01:25,879 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002720.
+2020-06-08 12:11:35,394 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000249.
+2020-06-08 12:11:35,398 INFO NIDM file already exists for dataset: ds001344
+2020-06-08 12:23:24,322 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000212.
+2020-06-08 12:23:24,325 INFO NIDM file already exists for dataset: ds001740
+2020-06-08 12:23:24,367 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002728.
+2020-06-08 12:34:37,662 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000243.
+2020-06-08 12:45:07,081 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001168.
+2020-06-08 12:45:42,187 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002276.
+2020-06-08 12:53:16,991 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000247.
+2020-06-08 12:53:16,994 INFO NIDM file already exists for dataset: ds001746
+2020-06-08 12:53:16,994 INFO NIDM file already exists for dataset: ds001883
+2020-06-08 12:53:16,995 INFO NIDM file already exists for dataset: ds000017
+2020-06-08 12:53:16,995 INFO NIDM file already exists for dataset: ds002242
+2020-06-08 12:53:17,015 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001165.
+2020-06-08 12:53:17,022 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001110.
+2020-06-08 13:01:25,313 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001734.
+2020-06-08 13:13:36,299 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001241.
+2020-06-08 15:48:22,106 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001499.
+2020-06-08 16:00:34,498 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001553.
+2020-06-08 16:00:38,822 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001652.
+2020-06-08 16:00:42,654 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001645.
+2020-06-08 16:00:45,056 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001670.
+2020-06-08 16:00:50,019 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds000002
+2020-06-08 16:00:50,019 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds000002/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds000002/participants.json
+2020-06-08 16:00:50,096 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds000002 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds000002/nidm.ttl -bidsignore -no_concepts
+2020-06-08 16:06:05,590 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds000002.
+2020-06-08 16:06:12,439 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds002034
+2020-06-08 16:06:12,440 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds002034/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds002034/participants.json
+2020-06-08 16:06:12,542 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds002034 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds002034/nidm.ttl -bidsignore -no_concepts
+2020-06-08 16:09:50,734 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds002034.
+2020-06-08 16:18:20,149 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000148.
+2020-06-08 16:30:20,727 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000254.
+2020-06-08 16:38:01,390 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001408.
+2020-06-08 16:38:08,182 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001569.
+2020-06-08 16:43:55,195 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000235.
+2020-06-08 16:43:58,355 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001399
+2020-06-08 16:43:58,355 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001399/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001399/participants.json
+2020-06-08 16:43:58,401 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001399 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001399/nidm.ttl -bidsignore -no_concepts
+2020-06-08 16:46:29,176 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001399.
+2020-06-08 16:46:29,199 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002687.
+2020-06-08 16:46:39,952 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001461.
+2020-06-08 16:46:45,392 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001529.
+2020-06-08 16:53:21,414 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000174.
+2020-06-08 16:53:23,867 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001338
+2020-06-08 16:53:23,867 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001338/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001338/participants.json
+2020-06-08 16:53:23,889 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001338 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001338/nidm.ttl -bidsignore -no_concepts
+2020-06-08 16:56:45,852 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001338.
+2020-06-08 17:06:49,618 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001555.
+2020-06-08 17:06:49,655 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001650.
+2020-06-08 17:07:55,540 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001631.
+2020-06-08 17:08:03,065 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001534
+2020-06-08 17:08:03,065 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001534/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001534/participants.json
+2020-06-08 17:08:03,113 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001534 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001534/nidm.ttl -bidsignore -no_concepts
+2020-06-08 17:20:39,316 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001534.
+2020-06-08 17:21:41,048 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds002236.
+2020-06-08 17:21:44,786 INFO Running datalad get command on dataset: /Volumes/Research/datasets.datalad.org/openneuro/ds001299
+2020-06-08 17:21:44,786 INFO Copying file: source=/Volumes/Research/nqueder/NIDM-terms/DataLad/OpenNeuro_BIDS_json_sidecar/ds001299/participants.json, dest=/Volumes/Research/datasets.datalad.org/openneuro/ds001299/participants.json
+2020-06-08 17:21:44,801 INFO Running command: bidsmri2nidm -d /Volumes/Research/datasets.datalad.org/openneuro/ds001299 -o /Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/openneuro/ds001299/nidm.ttl -bidsignore -no_concepts
+2020-06-08 17:25:13,161 ERROR Datalad returned error: <class 'datalad.support.exceptions.CommandError'> for uninstalling dataset ds001299.
+2020-06-08 17:30:51,417 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000234.
+2020-06-08 17:38:34,024 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000253.
+2020-06-08 17:38:34,051 ERROR Datalad returned error: <class 'ValueError'> for dataset ds001750.
+2020-06-08 17:38:40,205 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001966.
+2020-06-08 17:39:33,279 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001976.
+2020-06-08 17:46:01,851 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000140.
+2020-06-08 17:46:01,867 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002068.
+2020-06-08 17:52:53,955 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000116.
+2020-06-08 18:03:48,568 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000005.
+2020-06-08 18:21:47,613 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000008.
+2020-06-08 18:21:47,718 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002711.
+2020-06-08 18:34:45,887 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001545.
+2020-06-08 18:34:45,980 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002732.
+2020-06-08 18:58:04,304 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001131.
+2020-06-08 18:58:04,355 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002411.
+2020-06-08 19:10:05,120 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000203.
+2020-06-08 19:10:05,204 ERROR Datalad returned error: <class 'ValueError'> for dataset ds002691.
+2020-06-08 19:16:02,821 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds000236.
+2020-06-08 19:49:09,109 ERROR Datalad returned error: <class 'datalad.support.exceptions.IncompleteResultsError'> for dataset ds001748.

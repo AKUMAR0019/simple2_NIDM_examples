@@ -294,3 +294,974 @@ INFO:root:Converting subject: 0015061
 INFO:root:Converting subject: 0015062
 INFO:root:Writing NIDM file....
 INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:15001
+INFO:root:15002
+INFO:root:15003
+INFO:root:15004
+INFO:root:15005
+INFO:root:15006
+INFO:root:15007
+INFO:root:15008
+INFO:root:15010
+INFO:root:15011
+INFO:root:15012
+INFO:root:15013
+INFO:root:15014
+INFO:root:15015
+INFO:root:15016
+INFO:root:15017
+INFO:root:15018
+INFO:root:15020
+INFO:root:15021
+INFO:root:15022
+INFO:root:15023
+INFO:root:15024
+INFO:root:15025
+INFO:root:15026
+INFO:root:15027
+INFO:root:15028
+INFO:root:15029
+INFO:root:15030
+INFO:root:15031
+INFO:root:15032
+INFO:root:15033
+INFO:root:15034
+INFO:root:15035
+INFO:root:15036
+INFO:root:15037
+INFO:root:15038
+INFO:root:15039
+INFO:root:15040
+INFO:root:15041
+INFO:root:15042
+INFO:root:15043
+INFO:root:15044
+INFO:root:15045
+INFO:root:15046
+INFO:root:15047
+INFO:root:15048
+INFO:root:15049
+INFO:root:15050
+INFO:root:15051
+INFO:root:15052
+INFO:root:15053
+INFO:root:15054
+INFO:root:15055
+INFO:root:15056
+INFO:root:15057
+INFO:root:15058
+INFO:root:15059
+INFO:root:15060
+INFO:root:15061
+INFO:root:15062
+INFO:root:Converting subject: 0015001
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015002
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015003
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015004
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015005
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015006
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015007
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015008
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015010
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015011
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015012
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015013
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015014
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015015
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015016
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015017
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015018
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015020
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015021
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015022
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015023
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015024
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015025
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015026
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015027
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015028
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015029
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015030
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015031
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015032
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015033
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015034
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015035
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015036
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015037
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015038
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015039
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015040
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015041
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015042
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015043
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015044
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015045
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015046
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015047
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015048
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015049
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015050
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015051
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015052
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015053
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015054
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015055
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015056
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015057
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015058
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015059
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015060
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015061
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015062
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/WashU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/WashU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:15001
+INFO:root:15002
+INFO:root:15003
+INFO:root:15004
+INFO:root:15005
+INFO:root:15006
+INFO:root:15007
+INFO:root:15008
+INFO:root:15010
+INFO:root:15011
+INFO:root:15012
+INFO:root:15013
+INFO:root:15014
+INFO:root:15015
+INFO:root:15016
+INFO:root:15017
+INFO:root:15018
+INFO:root:15020
+INFO:root:15021
+INFO:root:15022
+INFO:root:15023
+INFO:root:15024
+INFO:root:15025
+INFO:root:15026
+INFO:root:15027
+INFO:root:15028
+INFO:root:15029
+INFO:root:15030
+INFO:root:15031
+INFO:root:15032
+INFO:root:15033
+INFO:root:15034
+INFO:root:15035
+INFO:root:15036
+INFO:root:15037
+INFO:root:15038
+INFO:root:15039
+INFO:root:15040
+INFO:root:15041
+INFO:root:15042
+INFO:root:15043
+INFO:root:15044
+INFO:root:15045
+INFO:root:15046
+INFO:root:15047
+INFO:root:15048
+INFO:root:15049
+INFO:root:15050
+INFO:root:15051
+INFO:root:15052
+INFO:root:15053
+INFO:root:15054
+INFO:root:15055
+INFO:root:15056
+INFO:root:15057
+INFO:root:15058
+INFO:root:15059
+INFO:root:15060
+INFO:root:15061
+INFO:root:15062
+INFO:root:Converting subject: 0015001
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015002
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015003
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015004
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015005
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015006
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015007
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015008
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015010
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015011
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015012
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015013
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015014
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015015
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015016
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015017
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015018
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015020
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015021
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015022
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015023
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015024
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015025
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015026
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015027
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015028
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015029
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015030
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015031
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015032
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015033
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015034
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015035
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015036
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015037
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015038
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015039
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015040
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015041
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015042
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015043
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015044
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015045
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015046
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015047
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015048
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015049
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015050
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015051
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015052
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015053
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015054
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015055
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015056
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015057
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015058
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015059
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015060
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015061
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Converting subject: 0015062
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+WARNING:root:Cannot find task-rest_bold.json file looking for session-specific one
+WARNING:root:Cannot find session-specific task-rest_bold.json file which is required in the BIDS spec..continuing anyway
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..

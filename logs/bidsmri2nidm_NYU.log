@@ -3413,3 +3413,1151 @@ INFO:root:Converting subject: 0051156
 INFO:root:Converting subject: 0051159
 INFO:root:Writing NIDM file....
 INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/NYU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/NYU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:21002
+INFO:root:21003
+INFO:root:21005
+INFO:root:21006
+INFO:root:21007
+INFO:root:21008
+INFO:root:21009
+INFO:root:21010
+INFO:root:21013
+INFO:root:21014
+INFO:root:21015
+INFO:root:21016
+INFO:root:21017
+INFO:root:21018
+INFO:root:21019
+INFO:root:21020
+INFO:root:21021
+INFO:root:21022
+INFO:root:21023
+INFO:root:21024
+INFO:root:21025
+INFO:root:21026
+INFO:root:21027
+INFO:root:21028
+INFO:root:21029
+INFO:root:21030
+INFO:root:21031
+INFO:root:21032
+INFO:root:21033
+INFO:root:21034
+INFO:root:21035
+INFO:root:21036
+INFO:root:21037
+INFO:root:21038
+INFO:root:21039
+INFO:root:21040
+INFO:root:21041
+INFO:root:21042
+INFO:root:21043
+INFO:root:21044
+INFO:root:21046
+INFO:root:21002
+INFO:root:21003
+INFO:root:21005
+INFO:root:21006
+INFO:root:21007
+INFO:root:21008
+INFO:root:21009
+INFO:root:21010
+INFO:root:21013
+INFO:root:21014
+INFO:root:21015
+INFO:root:21016
+INFO:root:21017
+INFO:root:21018
+INFO:root:21019
+INFO:root:21020
+INFO:root:21021
+INFO:root:21022
+INFO:root:21023
+INFO:root:21024
+INFO:root:21025
+INFO:root:21026
+INFO:root:21027
+INFO:root:21028
+INFO:root:21029
+INFO:root:21030
+INFO:root:21031
+INFO:root:21032
+INFO:root:21033
+INFO:root:21034
+INFO:root:21035
+INFO:root:21036
+INFO:root:21037
+INFO:root:21038
+INFO:root:21039
+INFO:root:21040
+INFO:root:21041
+INFO:root:21042
+INFO:root:21043
+INFO:root:21044
+INFO:root:21046
+INFO:root:1000804
+INFO:root:1023964
+INFO:root:1057962
+INFO:root:1099481
+INFO:root:1127915
+INFO:root:1187766
+INFO:root:1208795
+INFO:root:1283494
+INFO:root:1320247
+INFO:root:1359325
+INFO:root:1435954
+INFO:root:1471736
+INFO:root:1497055
+INFO:root:1511464
+INFO:root:1517240
+INFO:root:1567356
+INFO:root:1700637
+INFO:root:1737393
+INFO:root:1740607
+INFO:root:1780174
+INFO:root:1854959
+INFO:root:1875084
+INFO:root:1884448
+INFO:root:1918630
+INFO:root:1934623
+INFO:root:1992284
+INFO:root:1995121
+INFO:root:2030383
+INFO:root:2054438
+INFO:root:2107638
+INFO:root:2136051
+INFO:root:2230510
+INFO:root:2260910
+INFO:root:2297413
+INFO:root:2306976
+INFO:root:2497695
+INFO:root:2570769
+INFO:root:2682736
+INFO:root:2730704
+INFO:root:2735617
+INFO:root:2741068
+INFO:root:2773205
+INFO:root:2821683
+INFO:root:2854839
+INFO:root:2907383
+INFO:root:2950672
+INFO:root:2983819
+INFO:root:2991307
+INFO:root:2996531
+INFO:root:3011311
+INFO:root:3163200
+INFO:root:3174224
+INFO:root:3235580
+INFO:root:3243657
+INFO:root:3349205
+INFO:root:3349423
+INFO:root:3433846
+INFO:root:3441455
+INFO:root:3457975
+INFO:root:3518345
+INFO:root:3542588
+INFO:root:3601861
+INFO:root:3619797
+INFO:root:3650634
+INFO:root:3653737
+INFO:root:3662296
+INFO:root:3679455
+INFO:root:3845761
+INFO:root:3999344
+INFO:root:4060823
+INFO:root:4079254
+INFO:root:4084645
+INFO:root:4095229
+INFO:root:4116166
+INFO:root:4154672
+INFO:root:4164316
+INFO:root:4187857
+INFO:root:4562206
+INFO:root:4827048
+INFO:root:5164727
+INFO:root:5971050
+INFO:root:6206397
+INFO:root:6568351
+INFO:root:8009688
+INFO:root:8415034
+INFO:root:8692452
+INFO:root:8697774
+INFO:root:8834383
+INFO:root:8915162
+INFO:root:9326955
+INFO:root:9578663
+INFO:root:9750701
+INFO:root:9907452
+INFO:root:10001
+INFO:root:10003
+INFO:root:10004
+INFO:root:10005
+INFO:root:10016
+INFO:root:10009
+INFO:root:10010
+INFO:root:10012
+INFO:root:10018
+INFO:root:10020
+INFO:root:10021
+INFO:root:10022
+INFO:root:10023
+INFO:root:10028
+INFO:root:10030
+INFO:root:10038
+INFO:root:10034
+INFO:root:10031
+INFO:root:10032
+INFO:root:10035
+INFO:root:10037
+INFO:root:10039
+INFO:root:10042
+INFO:root:10044
+INFO:root:10050
+INFO:root:10051
+INFO:root:10052
+INFO:root:10053
+INFO:root:10056
+INFO:root:10057
+INFO:root:10058
+INFO:root:10059
+INFO:root:10054
+INFO:root:10055
+INFO:root:10048
+INFO:root:10060
+INFO:root:10047
+INFO:root:10061
+INFO:root:10062
+INFO:root:10063
+INFO:root:10064
+INFO:root:10065
+INFO:root:10066
+INFO:root:10067
+INFO:root:10068
+INFO:root:10069
+INFO:root:10119
+INFO:root:10109
+INFO:root:10110
+INFO:root:10111
+INFO:root:10046
+INFO:root:10112
+INFO:root:10107
+INFO:root:10019
+INFO:root:10077
+INFO:root:10078
+INFO:root:10079
+INFO:root:10080
+INFO:root:10008
+INFO:root:10014
+INFO:root:10089
+INFO:root:10090
+INFO:root:10091
+INFO:root:10092
+INFO:root:10045
+INFO:root:10093
+INFO:root:10094
+INFO:root:10095
+INFO:root:10096
+INFO:root:10097
+INFO:root:10098
+INFO:root:10099
+INFO:root:10100
+INFO:root:10101
+INFO:root:10102
+INFO:root:10108
+INFO:root:10002
+INFO:root:10011
+INFO:root:10113
+INFO:root:10114
+INFO:root:10115
+INFO:root:10006
+INFO:root:10105
+INFO:root:10024
+INFO:root:10015
+INFO:root:10106
+INFO:root:10116
+INFO:root:10117
+INFO:root:10118
+INFO:root:10120
+INFO:root:10026
+INFO:root:10121
+INFO:root:10122
+INFO:root:10123
+INFO:root:10082
+INFO:root:10074
+INFO:root:10075
+INFO:root:10076
+INFO:root:10103
+INFO:root:10081
+INFO:root:10083
+INFO:root:10084
+INFO:root:10085
+INFO:root:10036
+INFO:root:10086
+INFO:root:10027
+INFO:root:10087
+INFO:root:10025
+INFO:root:10029
+INFO:root:10017
+INFO:root:10049
+INFO:root:10070
+INFO:root:10071
+INFO:root:10033
+INFO:root:10072
+INFO:root:10073
+INFO:root:10104
+INFO:root:10088
+INFO:root:10040
+INFO:root:10124
+INFO:root:10041
+INFO:root:10125
+INFO:root:10007
+INFO:root:10126
+INFO:root:10127
+INFO:root:10128
+INFO:root:10129
+INFO:root:10013
+INFO:root:10043
+INFO:root:Converting subject: 0010001
+INFO:root:Converting subject: 0010002
+INFO:root:Converting subject: 0010003
+INFO:root:Converting subject: 0010004
+INFO:root:Converting subject: 0010005
+INFO:root:Converting subject: 0010006
+INFO:root:Converting subject: 0010007
+INFO:root:Converting subject: 0010008
+INFO:root:Converting subject: 0010009
+INFO:root:Converting subject: 0010010
+INFO:root:Converting subject: 0010011
+INFO:root:Converting subject: 0010012
+INFO:root:Converting subject: 0010013
+INFO:root:Converting subject: 0010014
+INFO:root:Converting subject: 0010015
+INFO:root:Converting subject: 0010016
+INFO:root:Converting subject: 0010017
+INFO:root:Converting subject: 0010018
+INFO:root:Converting subject: 0010019
+INFO:root:Converting subject: 0010020
+INFO:root:Converting subject: 0010021
+INFO:root:Converting subject: 0010022
+INFO:root:Converting subject: 0010023
+INFO:root:Converting subject: 0010024
+INFO:root:Converting subject: 0010025
+INFO:root:Converting subject: 0010026
+INFO:root:Converting subject: 0010027
+INFO:root:Converting subject: 0010028
+INFO:root:Converting subject: 0010029
+INFO:root:Converting subject: 0010030
+INFO:root:Converting subject: 0010031
+INFO:root:Converting subject: 0010032
+INFO:root:Converting subject: 0010033
+INFO:root:Converting subject: 0010034
+INFO:root:Converting subject: 0010035
+INFO:root:Converting subject: 0010036
+INFO:root:Converting subject: 0010037
+INFO:root:Converting subject: 0010038
+INFO:root:Converting subject: 0010039
+INFO:root:Converting subject: 0010040
+INFO:root:Converting subject: 0010041
+INFO:root:Converting subject: 0010042
+INFO:root:Converting subject: 0010043
+INFO:root:Converting subject: 0010044
+INFO:root:Converting subject: 0010045
+INFO:root:Converting subject: 0010046
+INFO:root:Converting subject: 0010047
+INFO:root:Converting subject: 0010048
+INFO:root:Converting subject: 0010049
+INFO:root:Converting subject: 0010050
+INFO:root:Converting subject: 0010051
+INFO:root:Converting subject: 0010052
+INFO:root:Converting subject: 0010053
+INFO:root:Converting subject: 0010054
+INFO:root:Converting subject: 0010055
+INFO:root:Converting subject: 0010056
+INFO:root:Converting subject: 0010057
+INFO:root:Converting subject: 0010058
+INFO:root:Converting subject: 0010059
+INFO:root:Converting subject: 0010060
+INFO:root:Converting subject: 0010061
+INFO:root:Converting subject: 0010062
+INFO:root:Converting subject: 0010063
+INFO:root:Converting subject: 0010064
+INFO:root:Converting subject: 0010065
+INFO:root:Converting subject: 0010066
+INFO:root:Converting subject: 0010067
+INFO:root:Converting subject: 0010068
+INFO:root:Converting subject: 0010069
+INFO:root:Converting subject: 0010070
+INFO:root:Converting subject: 0010071
+INFO:root:Converting subject: 0010072
+INFO:root:Converting subject: 0010073
+INFO:root:Converting subject: 0010074
+INFO:root:Converting subject: 0010075
+INFO:root:Converting subject: 0010076
+INFO:root:Converting subject: 0010077
+INFO:root:Converting subject: 0010078
+INFO:root:Converting subject: 0010079
+INFO:root:Converting subject: 0010080
+INFO:root:Converting subject: 0010081
+INFO:root:Converting subject: 0010082
+INFO:root:Converting subject: 0010083
+INFO:root:Converting subject: 0010084
+INFO:root:Converting subject: 0010085
+INFO:root:Converting subject: 0010086
+INFO:root:Converting subject: 0010087
+INFO:root:Converting subject: 0010088
+INFO:root:Converting subject: 0010089
+INFO:root:Converting subject: 0010090
+INFO:root:Converting subject: 0010091
+INFO:root:Converting subject: 0010092
+INFO:root:Converting subject: 0010093
+INFO:root:Converting subject: 0010094
+INFO:root:Converting subject: 0010095
+INFO:root:Converting subject: 0010096
+INFO:root:Converting subject: 0010097
+INFO:root:Converting subject: 0010098
+INFO:root:Converting subject: 0010099
+INFO:root:Converting subject: 0010100
+INFO:root:Converting subject: 0010101
+INFO:root:Converting subject: 0010102
+INFO:root:Converting subject: 0010103
+INFO:root:Converting subject: 0010104
+INFO:root:Converting subject: 0010105
+INFO:root:Converting subject: 0010106
+INFO:root:Converting subject: 0010107
+INFO:root:Converting subject: 0010108
+INFO:root:Converting subject: 0010109
+INFO:root:Converting subject: 0010110
+INFO:root:Converting subject: 0010111
+INFO:root:Converting subject: 0010112
+INFO:root:Converting subject: 0010113
+INFO:root:Converting subject: 0010114
+INFO:root:Converting subject: 0010115
+INFO:root:Converting subject: 0010116
+INFO:root:Converting subject: 0010117
+INFO:root:Converting subject: 0010118
+INFO:root:Converting subject: 0010119
+INFO:root:Converting subject: 0010120
+INFO:root:Converting subject: 0010121
+INFO:root:Converting subject: 0010122
+INFO:root:Converting subject: 0010123
+INFO:root:Converting subject: 0010124
+INFO:root:Converting subject: 0010125
+INFO:root:Converting subject: 0010126
+INFO:root:Converting subject: 0010127
+INFO:root:Converting subject: 0010128
+INFO:root:Converting subject: 0010129
+INFO:root:Converting subject: 0021002
+INFO:root:Converting subject: 0021003
+INFO:root:Converting subject: 0021005
+INFO:root:Converting subject: 0021006
+INFO:root:Converting subject: 0021007
+INFO:root:Converting subject: 0021008
+INFO:root:Converting subject: 0021009
+INFO:root:Converting subject: 0021010
+INFO:root:Converting subject: 0021013
+INFO:root:Converting subject: 0021014
+INFO:root:Converting subject: 0021015
+INFO:root:Converting subject: 0021016
+INFO:root:Converting subject: 0021017
+INFO:root:Converting subject: 0021018
+INFO:root:Converting subject: 0021019
+INFO:root:Converting subject: 0021020
+INFO:root:Converting subject: 0021021
+INFO:root:Converting subject: 0021022
+INFO:root:Converting subject: 0021023
+INFO:root:Converting subject: 0021024
+INFO:root:Converting subject: 0021025
+INFO:root:Converting subject: 0021026
+INFO:root:Converting subject: 0021027
+INFO:root:Converting subject: 0021028
+INFO:root:Converting subject: 0021029
+INFO:root:Converting subject: 0021030
+INFO:root:Converting subject: 0021031
+INFO:root:Converting subject: 0021032
+INFO:root:Converting subject: 0021033
+INFO:root:Converting subject: 0021034
+INFO:root:Converting subject: 0021035
+INFO:root:Converting subject: 0021036
+INFO:root:Converting subject: 0021037
+INFO:root:Converting subject: 0021038
+INFO:root:Converting subject: 0021039
+INFO:root:Converting subject: 0021040
+INFO:root:Converting subject: 0021041
+INFO:root:Converting subject: 0021042
+INFO:root:Converting subject: 0021043
+INFO:root:Converting subject: 0021044
+INFO:root:Converting subject: 0021046
+INFO:root:Converting subject: 1000804
+INFO:root:Converting subject: 1023964
+INFO:root:Converting subject: 1057962
+INFO:root:Converting subject: 1099481
+INFO:root:Converting subject: 1127915
+INFO:root:Converting subject: 1187766
+INFO:root:Converting subject: 1208795
+INFO:root:Converting subject: 1283494
+INFO:root:Converting subject: 1320247
+INFO:root:Converting subject: 1359325
+INFO:root:Converting subject: 1435954
+INFO:root:Converting subject: 1471736
+INFO:root:Converting subject: 1497055
+INFO:root:Converting subject: 1511464
+INFO:root:Converting subject: 1517240
+INFO:root:Converting subject: 1567356
+INFO:root:Converting subject: 1700637
+INFO:root:Converting subject: 1737393
+INFO:root:Converting subject: 1740607
+INFO:root:Converting subject: 1780174
+INFO:root:Converting subject: 1854959
+INFO:root:Converting subject: 1875084
+INFO:root:Converting subject: 1884448
+INFO:root:Converting subject: 1918630
+INFO:root:Converting subject: 1934623
+INFO:root:Converting subject: 1992284
+INFO:root:Converting subject: 1995121
+INFO:root:Converting subject: 2030383
+INFO:root:Converting subject: 2054438
+INFO:root:Converting subject: 2107638
+INFO:root:Converting subject: 2136051
+INFO:root:Converting subject: 2230510
+INFO:root:Converting subject: 2260910
+INFO:root:Converting subject: 2297413
+INFO:root:Converting subject: 2306976
+INFO:root:Converting subject: 2497695
+INFO:root:Converting subject: 2570769
+INFO:root:Converting subject: 2682736
+INFO:root:Converting subject: 2730704
+INFO:root:Converting subject: 2735617
+INFO:root:Converting subject: 2741068
+INFO:root:Converting subject: 2773205
+INFO:root:Converting subject: 2821683
+INFO:root:Converting subject: 2854839
+INFO:root:Converting subject: 2907383
+INFO:root:Converting subject: 2950672
+INFO:root:Converting subject: 2983819
+INFO:root:Converting subject: 2991307
+INFO:root:Converting subject: 2996531
+INFO:root:Converting subject: 3011311
+INFO:root:Converting subject: 3163200
+INFO:root:Converting subject: 3174224
+INFO:root:Converting subject: 3235580
+INFO:root:Converting subject: 3243657
+INFO:root:Converting subject: 3349205
+INFO:root:Converting subject: 3349423
+INFO:root:Converting subject: 3433846
+INFO:root:Converting subject: 3441455
+INFO:root:Converting subject: 3457975
+INFO:root:Converting subject: 3518345
+INFO:root:Converting subject: 3542588
+INFO:root:Converting subject: 3601861
+INFO:root:Converting subject: 3619797
+INFO:root:Converting subject: 3650634
+INFO:root:Converting subject: 3653737
+INFO:root:Converting subject: 3662296
+INFO:root:Converting subject: 3679455
+INFO:root:Converting subject: 3845761
+INFO:root:Converting subject: 3999344
+INFO:root:Converting subject: 4060823
+INFO:root:Converting subject: 4079254
+INFO:root:Converting subject: 4084645
+INFO:root:Converting subject: 4095229
+INFO:root:Converting subject: 4116166
+INFO:root:Converting subject: 4154672
+INFO:root:Converting subject: 4164316
+INFO:root:Converting subject: 4187857
+INFO:root:Converting subject: 4562206
+INFO:root:Converting subject: 4827048
+INFO:root:Converting subject: 5164727
+INFO:root:Converting subject: 5971050
+INFO:root:Converting subject: 6206397
+INFO:root:Converting subject: 6568351
+INFO:root:Converting subject: 8009688
+INFO:root:Converting subject: 8415034
+INFO:root:Converting subject: 8692452
+INFO:root:Converting subject: 8697774
+INFO:root:Converting subject: 8834383
+INFO:root:Converting subject: 8915162
+INFO:root:Converting subject: 9326955
+INFO:root:Converting subject: 9578663
+INFO:root:Converting subject: 9750701
+INFO:root:Converting subject: 9907452
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
+INFO:root:bidsmri2nidm Namespace(bidsignore=False, directory='/datasets.datalad.org/adhd200/RawDataBIDS/NYU', json_map='/Volumes/Research/dbkeator/Documents/ReproNim/simple_2/adhd200_vars_to_terms_v2.json', jsonld=False, logfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/logs', no_concepts=True, outputfile='/Users/dbkeator/Documents/Coding/simple2_NIDM_examples/datasets.datalad.org/adhd200/RawDataBIDS/NYU/nidm.ttl')
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info?key=29hUT0BKdmUEgD6KLppEH9qDItY0eQXM HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): scicrunch.org:443
+DEBUG:urllib3.connectionpool:https://scicrunch.org:443 "GET /api/1/user/info HTTP/1.1" 200 None
+INFO:root:21002
+INFO:root:21003
+INFO:root:21005
+INFO:root:21006
+INFO:root:21007
+INFO:root:21008
+INFO:root:21009
+INFO:root:21010
+INFO:root:21013
+INFO:root:21014
+INFO:root:21015
+INFO:root:21016
+INFO:root:21017
+INFO:root:21018
+INFO:root:21019
+INFO:root:21020
+INFO:root:21021
+INFO:root:21022
+INFO:root:21023
+INFO:root:21024
+INFO:root:21025
+INFO:root:21026
+INFO:root:21027
+INFO:root:21028
+INFO:root:21029
+INFO:root:21030
+INFO:root:21031
+INFO:root:21032
+INFO:root:21033
+INFO:root:21034
+INFO:root:21035
+INFO:root:21036
+INFO:root:21037
+INFO:root:21038
+INFO:root:21039
+INFO:root:21040
+INFO:root:21041
+INFO:root:21042
+INFO:root:21043
+INFO:root:21044
+INFO:root:21046
+INFO:root:21002
+INFO:root:21003
+INFO:root:21005
+INFO:root:21006
+INFO:root:21007
+INFO:root:21008
+INFO:root:21009
+INFO:root:21010
+INFO:root:21013
+INFO:root:21014
+INFO:root:21015
+INFO:root:21016
+INFO:root:21017
+INFO:root:21018
+INFO:root:21019
+INFO:root:21020
+INFO:root:21021
+INFO:root:21022
+INFO:root:21023
+INFO:root:21024
+INFO:root:21025
+INFO:root:21026
+INFO:root:21027
+INFO:root:21028
+INFO:root:21029
+INFO:root:21030
+INFO:root:21031
+INFO:root:21032
+INFO:root:21033
+INFO:root:21034
+INFO:root:21035
+INFO:root:21036
+INFO:root:21037
+INFO:root:21038
+INFO:root:21039
+INFO:root:21040
+INFO:root:21041
+INFO:root:21042
+INFO:root:21043
+INFO:root:21044
+INFO:root:21046
+INFO:root:1000804
+INFO:root:1023964
+INFO:root:1057962
+INFO:root:1099481
+INFO:root:1127915
+INFO:root:1187766
+INFO:root:1208795
+INFO:root:1283494
+INFO:root:1320247
+INFO:root:1359325
+INFO:root:1435954
+INFO:root:1471736
+INFO:root:1497055
+INFO:root:1511464
+INFO:root:1517240
+INFO:root:1567356
+INFO:root:1700637
+INFO:root:1737393
+INFO:root:1740607
+INFO:root:1780174
+INFO:root:1854959
+INFO:root:1875084
+INFO:root:1884448
+INFO:root:1918630
+INFO:root:1934623
+INFO:root:1992284
+INFO:root:1995121
+INFO:root:2030383
+INFO:root:2054438
+INFO:root:2107638
+INFO:root:2136051
+INFO:root:2230510
+INFO:root:2260910
+INFO:root:2297413
+INFO:root:2306976
+INFO:root:2497695
+INFO:root:2570769
+INFO:root:2682736
+INFO:root:2730704
+INFO:root:2735617
+INFO:root:2741068
+INFO:root:2773205
+INFO:root:2821683
+INFO:root:2854839
+INFO:root:2907383
+INFO:root:2950672
+INFO:root:2983819
+INFO:root:2991307
+INFO:root:2996531
+INFO:root:3011311
+INFO:root:3163200
+INFO:root:3174224
+INFO:root:3235580
+INFO:root:3243657
+INFO:root:3349205
+INFO:root:3349423
+INFO:root:3433846
+INFO:root:3441455
+INFO:root:3457975
+INFO:root:3518345
+INFO:root:3542588
+INFO:root:3601861
+INFO:root:3619797
+INFO:root:3650634
+INFO:root:3653737
+INFO:root:3662296
+INFO:root:3679455
+INFO:root:3845761
+INFO:root:3999344
+INFO:root:4060823
+INFO:root:4079254
+INFO:root:4084645
+INFO:root:4095229
+INFO:root:4116166
+INFO:root:4154672
+INFO:root:4164316
+INFO:root:4187857
+INFO:root:4562206
+INFO:root:4827048
+INFO:root:5164727
+INFO:root:5971050
+INFO:root:6206397
+INFO:root:6568351
+INFO:root:8009688
+INFO:root:8415034
+INFO:root:8692452
+INFO:root:8697774
+INFO:root:8834383
+INFO:root:8915162
+INFO:root:9326955
+INFO:root:9578663
+INFO:root:9750701
+INFO:root:9907452
+INFO:root:10001
+INFO:root:10003
+INFO:root:10004
+INFO:root:10005
+INFO:root:10016
+INFO:root:10009
+INFO:root:10010
+INFO:root:10012
+INFO:root:10018
+INFO:root:10020
+INFO:root:10021
+INFO:root:10022
+INFO:root:10023
+INFO:root:10028
+INFO:root:10030
+INFO:root:10038
+INFO:root:10034
+INFO:root:10031
+INFO:root:10032
+INFO:root:10035
+INFO:root:10037
+INFO:root:10039
+INFO:root:10042
+INFO:root:10044
+INFO:root:10050
+INFO:root:10051
+INFO:root:10052
+INFO:root:10053
+INFO:root:10056
+INFO:root:10057
+INFO:root:10058
+INFO:root:10059
+INFO:root:10054
+INFO:root:10055
+INFO:root:10048
+INFO:root:10060
+INFO:root:10047
+INFO:root:10061
+INFO:root:10062
+INFO:root:10063
+INFO:root:10064
+INFO:root:10065
+INFO:root:10066
+INFO:root:10067
+INFO:root:10068
+INFO:root:10069
+INFO:root:10119
+INFO:root:10109
+INFO:root:10110
+INFO:root:10111
+INFO:root:10046
+INFO:root:10112
+INFO:root:10107
+INFO:root:10019
+INFO:root:10077
+INFO:root:10078
+INFO:root:10079
+INFO:root:10080
+INFO:root:10008
+INFO:root:10014
+INFO:root:10089
+INFO:root:10090
+INFO:root:10091
+INFO:root:10092
+INFO:root:10045
+INFO:root:10093
+INFO:root:10094
+INFO:root:10095
+INFO:root:10096
+INFO:root:10097
+INFO:root:10098
+INFO:root:10099
+INFO:root:10100
+INFO:root:10101
+INFO:root:10102
+INFO:root:10108
+INFO:root:10002
+INFO:root:10011
+INFO:root:10113
+INFO:root:10114
+INFO:root:10115
+INFO:root:10006
+INFO:root:10105
+INFO:root:10024
+INFO:root:10015
+INFO:root:10106
+INFO:root:10116
+INFO:root:10117
+INFO:root:10118
+INFO:root:10120
+INFO:root:10026
+INFO:root:10121
+INFO:root:10122
+INFO:root:10123
+INFO:root:10082
+INFO:root:10074
+INFO:root:10075
+INFO:root:10076
+INFO:root:10103
+INFO:root:10081
+INFO:root:10083
+INFO:root:10084
+INFO:root:10085
+INFO:root:10036
+INFO:root:10086
+INFO:root:10027
+INFO:root:10087
+INFO:root:10025
+INFO:root:10029
+INFO:root:10017
+INFO:root:10049
+INFO:root:10070
+INFO:root:10071
+INFO:root:10033
+INFO:root:10072
+INFO:root:10073
+INFO:root:10104
+INFO:root:10088
+INFO:root:10040
+INFO:root:10124
+INFO:root:10041
+INFO:root:10125
+INFO:root:10007
+INFO:root:10126
+INFO:root:10127
+INFO:root:10128
+INFO:root:10129
+INFO:root:10013
+INFO:root:10043
+INFO:root:Converting subject: 0010001
+INFO:root:Converting subject: 0010002
+INFO:root:Converting subject: 0010003
+INFO:root:Converting subject: 0010004
+INFO:root:Converting subject: 0010005
+INFO:root:Converting subject: 0010006
+INFO:root:Converting subject: 0010007
+INFO:root:Converting subject: 0010008
+INFO:root:Converting subject: 0010009
+INFO:root:Converting subject: 0010010
+INFO:root:Converting subject: 0010011
+INFO:root:Converting subject: 0010012
+INFO:root:Converting subject: 0010013
+INFO:root:Converting subject: 0010014
+INFO:root:Converting subject: 0010015
+INFO:root:Converting subject: 0010016
+INFO:root:Converting subject: 0010017
+INFO:root:Converting subject: 0010018
+INFO:root:Converting subject: 0010019
+INFO:root:Converting subject: 0010020
+INFO:root:Converting subject: 0010021
+INFO:root:Converting subject: 0010022
+INFO:root:Converting subject: 0010023
+INFO:root:Converting subject: 0010024
+INFO:root:Converting subject: 0010025
+INFO:root:Converting subject: 0010026
+INFO:root:Converting subject: 0010027
+INFO:root:Converting subject: 0010028
+INFO:root:Converting subject: 0010029
+INFO:root:Converting subject: 0010030
+INFO:root:Converting subject: 0010031
+INFO:root:Converting subject: 0010032
+INFO:root:Converting subject: 0010033
+INFO:root:Converting subject: 0010034
+INFO:root:Converting subject: 0010035
+INFO:root:Converting subject: 0010036
+INFO:root:Converting subject: 0010037
+INFO:root:Converting subject: 0010038
+INFO:root:Converting subject: 0010039
+INFO:root:Converting subject: 0010040
+INFO:root:Converting subject: 0010041
+INFO:root:Converting subject: 0010042
+INFO:root:Converting subject: 0010043
+INFO:root:Converting subject: 0010044
+INFO:root:Converting subject: 0010045
+INFO:root:Converting subject: 0010046
+INFO:root:Converting subject: 0010047
+INFO:root:Converting subject: 0010048
+INFO:root:Converting subject: 0010049
+INFO:root:Converting subject: 0010050
+INFO:root:Converting subject: 0010051
+INFO:root:Converting subject: 0010052
+INFO:root:Converting subject: 0010053
+INFO:root:Converting subject: 0010054
+INFO:root:Converting subject: 0010055
+INFO:root:Converting subject: 0010056
+INFO:root:Converting subject: 0010057
+INFO:root:Converting subject: 0010058
+INFO:root:Converting subject: 0010059
+INFO:root:Converting subject: 0010060
+INFO:root:Converting subject: 0010061
+INFO:root:Converting subject: 0010062
+INFO:root:Converting subject: 0010063
+INFO:root:Converting subject: 0010064
+INFO:root:Converting subject: 0010065
+INFO:root:Converting subject: 0010066
+INFO:root:Converting subject: 0010067
+INFO:root:Converting subject: 0010068
+INFO:root:Converting subject: 0010069
+INFO:root:Converting subject: 0010070
+INFO:root:Converting subject: 0010071
+INFO:root:Converting subject: 0010072
+INFO:root:Converting subject: 0010073
+INFO:root:Converting subject: 0010074
+INFO:root:Converting subject: 0010075
+INFO:root:Converting subject: 0010076
+INFO:root:Converting subject: 0010077
+INFO:root:Converting subject: 0010078
+INFO:root:Converting subject: 0010079
+INFO:root:Converting subject: 0010080
+INFO:root:Converting subject: 0010081
+INFO:root:Converting subject: 0010082
+INFO:root:Converting subject: 0010083
+INFO:root:Converting subject: 0010084
+INFO:root:Converting subject: 0010085
+INFO:root:Converting subject: 0010086
+INFO:root:Converting subject: 0010087
+INFO:root:Converting subject: 0010088
+INFO:root:Converting subject: 0010089
+INFO:root:Converting subject: 0010090
+INFO:root:Converting subject: 0010091
+INFO:root:Converting subject: 0010092
+INFO:root:Converting subject: 0010093
+INFO:root:Converting subject: 0010094
+INFO:root:Converting subject: 0010095
+INFO:root:Converting subject: 0010096
+INFO:root:Converting subject: 0010097
+INFO:root:Converting subject: 0010098
+INFO:root:Converting subject: 0010099
+INFO:root:Converting subject: 0010100
+INFO:root:Converting subject: 0010101
+INFO:root:Converting subject: 0010102
+INFO:root:Converting subject: 0010103
+INFO:root:Converting subject: 0010104
+INFO:root:Converting subject: 0010105
+INFO:root:Converting subject: 0010106
+INFO:root:Converting subject: 0010107
+INFO:root:Converting subject: 0010108
+INFO:root:Converting subject: 0010109
+INFO:root:Converting subject: 0010110
+INFO:root:Converting subject: 0010111
+INFO:root:Converting subject: 0010112
+INFO:root:Converting subject: 0010113
+INFO:root:Converting subject: 0010114
+INFO:root:Converting subject: 0010115
+INFO:root:Converting subject: 0010116
+INFO:root:Converting subject: 0010117
+INFO:root:Converting subject: 0010118
+INFO:root:Converting subject: 0010119
+INFO:root:Converting subject: 0010120
+INFO:root:Converting subject: 0010121
+INFO:root:Converting subject: 0010122
+INFO:root:Converting subject: 0010123
+INFO:root:Converting subject: 0010124
+INFO:root:Converting subject: 0010125
+INFO:root:Converting subject: 0010126
+INFO:root:Converting subject: 0010127
+INFO:root:Converting subject: 0010128
+INFO:root:Converting subject: 0010129
+INFO:root:Converting subject: 0021002
+INFO:root:Converting subject: 0021003
+INFO:root:Converting subject: 0021005
+INFO:root:Converting subject: 0021006
+INFO:root:Converting subject: 0021007
+INFO:root:Converting subject: 0021008
+INFO:root:Converting subject: 0021009
+INFO:root:Converting subject: 0021010
+INFO:root:Converting subject: 0021013
+INFO:root:Converting subject: 0021014
+INFO:root:Converting subject: 0021015
+INFO:root:Converting subject: 0021016
+INFO:root:Converting subject: 0021017
+INFO:root:Converting subject: 0021018
+INFO:root:Converting subject: 0021019
+INFO:root:Converting subject: 0021020
+INFO:root:Converting subject: 0021021
+INFO:root:Converting subject: 0021022
+INFO:root:Converting subject: 0021023
+INFO:root:Converting subject: 0021024
+INFO:root:Converting subject: 0021025
+INFO:root:Converting subject: 0021026
+INFO:root:Converting subject: 0021027
+INFO:root:Converting subject: 0021028
+INFO:root:Converting subject: 0021029
+INFO:root:Converting subject: 0021030
+INFO:root:Converting subject: 0021031
+INFO:root:Converting subject: 0021032
+INFO:root:Converting subject: 0021033
+INFO:root:Converting subject: 0021034
+INFO:root:Converting subject: 0021035
+INFO:root:Converting subject: 0021036
+INFO:root:Converting subject: 0021037
+INFO:root:Converting subject: 0021038
+INFO:root:Converting subject: 0021039
+INFO:root:Converting subject: 0021040
+INFO:root:Converting subject: 0021041
+INFO:root:Converting subject: 0021042
+INFO:root:Converting subject: 0021043
+INFO:root:Converting subject: 0021044
+INFO:root:Converting subject: 0021046
+INFO:root:Converting subject: 1000804
+INFO:root:Converting subject: 1023964
+INFO:root:Converting subject: 1057962
+INFO:root:Converting subject: 1099481
+INFO:root:Converting subject: 1127915
+INFO:root:Converting subject: 1187766
+INFO:root:Converting subject: 1208795
+INFO:root:Converting subject: 1283494
+INFO:root:Converting subject: 1320247
+INFO:root:Converting subject: 1359325
+INFO:root:Converting subject: 1435954
+INFO:root:Converting subject: 1471736
+INFO:root:Converting subject: 1497055
+INFO:root:Converting subject: 1511464
+INFO:root:Converting subject: 1517240
+INFO:root:Converting subject: 1567356
+INFO:root:Converting subject: 1700637
+INFO:root:Converting subject: 1737393
+INFO:root:Converting subject: 1740607
+INFO:root:Converting subject: 1780174
+INFO:root:Converting subject: 1854959
+INFO:root:Converting subject: 1875084
+INFO:root:Converting subject: 1884448
+INFO:root:Converting subject: 1918630
+INFO:root:Converting subject: 1934623
+INFO:root:Converting subject: 1992284
+INFO:root:Converting subject: 1995121
+INFO:root:Converting subject: 2030383
+INFO:root:Converting subject: 2054438
+INFO:root:Converting subject: 2107638
+INFO:root:Converting subject: 2136051
+INFO:root:Converting subject: 2230510
+INFO:root:Converting subject: 2260910
+INFO:root:Converting subject: 2297413
+INFO:root:Converting subject: 2306976
+INFO:root:Converting subject: 2497695
+INFO:root:Converting subject: 2570769
+INFO:root:Converting subject: 2682736
+INFO:root:Converting subject: 2730704
+INFO:root:Converting subject: 2735617
+INFO:root:Converting subject: 2741068
+INFO:root:Converting subject: 2773205
+INFO:root:Converting subject: 2821683
+INFO:root:Converting subject: 2854839
+INFO:root:Converting subject: 2907383
+INFO:root:Converting subject: 2950672
+INFO:root:Converting subject: 2983819
+INFO:root:Converting subject: 2991307
+INFO:root:Converting subject: 2996531
+INFO:root:Converting subject: 3011311
+INFO:root:Converting subject: 3163200
+INFO:root:Converting subject: 3174224
+INFO:root:Converting subject: 3235580
+INFO:root:Converting subject: 3243657
+INFO:root:Converting subject: 3349205
+INFO:root:Converting subject: 3349423
+INFO:root:Converting subject: 3433846
+INFO:root:Converting subject: 3441455
+INFO:root:Converting subject: 3457975
+INFO:root:Converting subject: 3518345
+INFO:root:Converting subject: 3542588
+INFO:root:Converting subject: 3601861
+INFO:root:Converting subject: 3619797
+INFO:root:Converting subject: 3650634
+INFO:root:Converting subject: 3653737
+INFO:root:Converting subject: 3662296
+INFO:root:Converting subject: 3679455
+INFO:root:Converting subject: 3845761
+INFO:root:Converting subject: 3999344
+INFO:root:Converting subject: 4060823
+INFO:root:Converting subject: 4079254
+INFO:root:Converting subject: 4084645
+INFO:root:Converting subject: 4095229
+INFO:root:Converting subject: 4116166
+INFO:root:Converting subject: 4154672
+INFO:root:Converting subject: 4164316
+INFO:root:Converting subject: 4187857
+INFO:root:Converting subject: 4562206
+INFO:root:Converting subject: 4827048
+INFO:root:Converting subject: 5164727
+INFO:root:Converting subject: 5971050
+INFO:root:Converting subject: 6206397
+INFO:root:Converting subject: 6568351
+INFO:root:Converting subject: 8009688
+INFO:root:Converting subject: 8415034
+INFO:root:Converting subject: 8692452
+INFO:root:Converting subject: 8697774
+INFO:root:Converting subject: 8834383
+INFO:root:Converting subject: 8915162
+INFO:root:Converting subject: 9326955
+INFO:root:Converting subject: 9578663
+INFO:root:Converting subject: 9750701
+INFO:root:Converting subject: 9907452
+INFO:root:Writing NIDM file....
+INFO:root:Serializing NIDM graph and creating graph visualization..
